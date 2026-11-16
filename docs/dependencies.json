@@ -1,7 +1,8 @@
 {
   "amp_mjlab": {
-    "path": "/home/ye/BeyondMimicExp/AMP_mjlab",
-    "commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc"
+    "path": "vendor/AMP_mjlab",
+    "commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc",
+    "original_machine_path": "/home/ye/BeyondMimicExp/AMP_mjlab"
   },
   "HoST": {
     "path": "vendor/HoST",

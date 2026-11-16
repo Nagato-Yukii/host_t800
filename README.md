@@ -1,6 +1,6 @@
 # T800 AMP 起身 / HoST task
 
-独立项目位于 `/home/ye/Desktop/t800_amp_getup`。复用现有 `amp_mjlab` Conda 环境、AMP_mjlab 的管理器、观测、PPO/AMP、MuJoCo-Warp、平面地形和通用奖励；没有修改已有项目或共享 Python 环境。
+本仓库包含运行所需的AMP_mjlab源码、T800模型网格、531段AMP动作和倒地姿态库。新机器安装步骤见 [docs/INSTALL.md](docs/INSTALL.md)。本机工作目录为 `/home/ye/Desktop/t800_amp_getup`。复用现有 `amp_mjlab` Conda 环境、AMP_mjlab 的管理器、观测、PPO/AMP、MuJoCo-Warp、平面地形和通用奖励；没有修改已有项目或共享 Python 环境。
 
 ## 快速使用
 
@@ -17,7 +17,7 @@ cd /home/ye/Desktop/t800_amp_getup
 
 目前已在本机使用4096环境训练；历史短测与验证记录见 docs/validation.md。训练不会自动上传日志。TensorBoard：`/home/ye/miniconda3/envs/amp_mjlab/bin/python -m tensorboard.main --logdir logs`。
 
-`run.sh` 默认使用 `/home/ye/miniconda3/envs/amp_mjlab/bin/python` 和 `/home/ye/BeyondMimicExp/AMP_mjlab`。可设置 `T800_PYTHON`、`AMP_MJLAB_ROOT`。本机另有 `/home/ye/AMP_mjlab`（含其他任务修改），本项目优先绑定 BeyondMimicExp 下的版本；共享 rsl_rl 的 editable 安装不会被覆盖。
+`run.sh` 默认使用当前环境的 `python` 和仓库内 `vendor/AMP_mjlab`，可用 `T800_PYTHON`、`AMP_MJLAB_ROOT` 覆盖。修改版 `rsl_rl` 由启动脚本的 PYTHONPATH 优先加载，不需要覆盖其他项目的安装。
 
 ## 任务结构
 
@@ -129,6 +129,6 @@ cd /home/ye/Desktop/t800_amp_getup
 
 私有仓库：`Nagato-Yukii/host_t800`。工作目录保持 `/home/ye/Desktop/t800_amp_getup`；GitHub仓库名不改变Python包名或训练入口。
 
-Git仅保存源码、配置、测试、资产XML/PD和数据来源说明。`.gitignore` 排除 `logs/`、模型checkpoint、TensorBoard日志、视频、`assets/motions/`、`assets/t800/meshes/`、`data/*.zip|npz|npy`、`vendor/`、虚拟环境和凭据。忽略文件仍保留本机，不影响正在运行的tmux训练。
+仓库直接包含源码、T800 meshes、531段 `assets/motions/*.npz` 和 `data/fallen_resets.npz`，使用普通 Git，无需 Git LFS。`vendor/AMP_mjlab` 是固定commit的源码快照（含修改版rsl_rl和mjlab观测补丁），未包含上游无关的G1动作库和日志。
 
-新机器clone后不能直接训练：需按 `docs/dependencies.json` 恢复外部AMP_mjlab依赖，设置 `T800_PYTHON`/`AMP_MJLAB_ROOT`，并恢复T800 meshes、531段动作数据和 `data/fallen_resets.npz`。这些资产可从原机器复制，或在补齐源资产后使用 `scripts/prepare_assets.py`、`prepare_motions.py`、`prepare_resets.py` 重建。脚本中的本机默认路径需按新机器调整。数据与资产的许可见 `docs/NOTICE.md`、`data/SOURCE_LICENSE.md` 和 `assets/t800/GMR_LICENSE`。
+训练checkpoint、日志、视频、原始105MB压缩包、重建中间数组和其余vendor目录仍被忽略。clone后不必重新重定向动作或生成倒地库，按 [安装说明](docs/INSTALL.md) 配置Python/CUDA环境即可开始训练；不包含已训练权重。资产及数据来源许可见 `docs/NOTICE.md`、`data/SOURCE_LICENSE.md`、`assets/t800/GMR_LICENSE`。

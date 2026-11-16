@@ -1,0 +1,13 @@
+{
+  "vendored_commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc",
+  "runtime_assets": 558,
+  "motion_count": 531,
+  "validation": "existing Python environment, imports confirmed from vendor/AMP_mjlab",
+  "model_check": "passed",
+  "training_task": "host_slow",
+  "num_envs": 8,
+  "iterations": 2,
+  "steps": 384,
+  "training_exit_code": 0,
+  "fresh_machine_install_tested": false
+}

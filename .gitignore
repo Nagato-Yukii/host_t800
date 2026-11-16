@@ -30,17 +30,17 @@ events.out.tfevents.*
 *.webm
 
 # Large local datasets / generated motion and reset arrays
-/assets/motions/
-/assets/t800/meshes/
 /data/*.zip
 /data/*.npz
+!/data/fallen_resets.npz
 /data/*.npy
 *.tar
 *.tar.gz
 *.tgz
 
 # External checkouts, restored locally as documented
-/vendor/
+/vendor/*
+!/vendor/AMP_mjlab/
 
 # Credentials and machine-local configuration
 .env

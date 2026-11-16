@@ -1,0 +1,2795 @@
+{
+  "motion_count": 531,
+  "files": [
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00170.npz",
+      "bytes": 367190,
+      "sha256": "df6093741ac13133d6b9a28f8731c2d530060f4858809bd1fbc5ababd2cdf851"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00087.npz",
+      "bytes": 297623,
+      "sha256": "00db10b6ae9d66e962c27890ec2d81f611cae577dc2d824c238a86915840b035"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00110.npz",
+      "bytes": 303104,
+      "sha256": "a83b139cf9c6389ca9ac3070ccf3315854afe0d40b2ef7a57a90c5cf20b5acce"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00089.npz",
+      "bytes": 236464,
+      "sha256": "553d969ceca79d6ef5a3cc768dc59dc76bdebae746f143ddb711c179b41e46fa"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00009.npz",
+      "bytes": 577544,
+      "sha256": "d0d3a3ab4b6a87459a5faeb6111fd55880aa50ba0f4c68fdc40aa6627759ceae"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00017.npz",
+      "bytes": 330350,
+      "sha256": "5f32cd2e44b3fbc6b4970edfddf5efd07961482d0a5df13d7ee89848b3ad2c66"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00189.npz",
+      "bytes": 214245,
+      "sha256": "8b67779e0ae4b6519b079a83f1a7b90b8fba8a88589eea2d4e6ad7f11d3a31e0"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00177.npz",
+      "bytes": 264490,
+      "sha256": "cf54af8428df1c79e0669a61df5ad1d750adb7301223f222d35008818ba34d02"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00007.npz",
+      "bytes": 613405,
+      "sha256": "5806c84fc68448f25c17b4300d3bf2f23c360bbfeca399ba87345da2d77a005a"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00100.npz",
+      "bytes": 534895,
+      "sha256": "212ba7c700bce98ea564ae47b1c5492ca972ad3dbe7438b898f8f015d0764990"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00158.npz",
+      "bytes": 352273,
+      "sha256": "734f8b19756c52f5690630333b145cef71334212d98d62d74c9b29562d965387"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00012.npz",
+      "bytes": 276871,
+      "sha256": "3e5f28f0d894aeee5c3fd4e5bd2a67885865380af50f192422502716125bf4fc"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00176.npz",
+      "bytes": 253467,
+      "sha256": "17e3fd16e80bcc821b56b63ca463aa3ff8fea04f496b912760b3abc7e3d37379"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00002.npz",
+      "bytes": 509999,
+      "sha256": "705a8317d972d7f4f8a57ad14a17248f1aa32d15b29b495ac31529b9d0b1cff4"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00155.npz",
+      "bytes": 445335,
+      "sha256": "67c43771b6d667212ba62c8ee8340065472729f41fae13109518f50f9561ea95"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00006.npz",
+      "bytes": 241496,
+      "sha256": "a3faa31e76cb16c1f43ce1861d058af9df28ea566a31f293129bd4c89e8ae0eb"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00154.npz",
+      "bytes": 387937,
+      "sha256": "9787b9338e195ba749573ef098ca09414e17ebb0bda242f487aa7fdec7d6b13b"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00122.npz",
+      "bytes": 270844,
+      "sha256": "87fd25d35736bf577863c5cf376f87a8932ef44512af36890ac5ba71b93a0403"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00061.npz",
+      "bytes": 162545,
+      "sha256": "2b798e3f1346330d59abfe7928f4136affb7e27d51ae69889283dcb77a31a472"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00053.npz",
+      "bytes": 353177,
+      "sha256": "d52fcc7c054f779dd8c78363e3010e109d6550468a4ba3daaf2f82fff0fe1a09"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00019.npz",
+      "bytes": 398469,
+      "sha256": "b00f0aba3b47732040a0565a6161e30b4af7dfb7be9987bd4a80f2c9f16b49c5"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00094.npz",
+      "bytes": 181370,
+      "sha256": "71e305493fadc27f4a1c39db011e66567d7284596088b384019c21bc441e9738"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00050.npz",
+      "bytes": 583572,
+      "sha256": "b9d0949afbb0c7514f46803e24275ae65cd510cdae26b7092d347166e7fbc3be"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00005.npz",
+      "bytes": 152442,
+      "sha256": "c22a0efb18a779dcc787eed57c808f023ec22eb2f791770af95621349c76f775"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00045.npz",
+      "bytes": 285863,
+      "sha256": "4e3d01080d8ae57bc9d555f9d1d071c366aadba47607bde00fd5df72279a1183"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00114.npz",
+      "bytes": 218753,
+      "sha256": "56cea8a54e53387ea737844870f37cfebbd517bd15693a80f9b2d21fa9b1ac2d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00155.npz",
+      "bytes": 331019,
+      "sha256": "aad97172ff19e4822a4532ed59c872dfbd6860eff9ee542df739bced41c4a0f9"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00011.npz",
+      "bytes": 188266,
+      "sha256": "5563c9145c50d6d71a58d8f5ddf7a694b366377eb48d14788ab35bc5ef7be8b5"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00116.npz",
+      "bytes": 214183,
+      "sha256": "e54ccdb8c327773c7cf320cf3cefdb31b3b7c15e6953815b1d21b29ff90248d9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00181.npz",
+      "bytes": 426828,
+      "sha256": "96a71040ce4b6cbb6a7b462b3c8469e581f7d2e4ab3194c3e6ca28807a27b035"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00049.npz",
+      "bytes": 209038,
+      "sha256": "35020c7807c5f9a18b1fe1f1aaed30cb6e7c994790ee3f97cf09511e3981b93c"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00003.npz",
+      "bytes": 531447,
+      "sha256": "01950905a935121808a0fda0ca734df8bc9123bb4035fe9d4a377c7bf0448e8b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00027.npz",
+      "bytes": 435389,
+      "sha256": "4af9bb761d68ffae49f0b8d24c3f0615e56d1e0a250bc216a9d305e5a9c06a74"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00078.npz",
+      "bytes": 180556,
+      "sha256": "7dd678dce3c399a2d0c785203016a34057419b2394710800644f2b1d8df27c59"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00143.npz",
+      "bytes": 417113,
+      "sha256": "54c89d1a68ba977400cf3d32ce4eabfd51dc6d4a194639388298181d00b6f41e"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00144.npz",
+      "bytes": 266505,
+      "sha256": "fe49d2e36589bc2cea33497e27b24d0b8384dce98300d0ca1da81bf6bde324d9"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00151.npz",
+      "bytes": 231247,
+      "sha256": "930b048038945825317dccdd236ebc2debca65e5f55bf3457c5b3f6cebd5e41e"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00111.npz",
+      "bytes": 371251,
+      "sha256": "c794da8426fbfaadb95f8eb2b343298a7cf205148db55967cc1f1f013de5df78"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00010.npz",
+      "bytes": 193886,
+      "sha256": "927ceb98e57b1f0a54e370eab904acd905640c07fa5f2ad44641dc5b65da6f65"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00164.npz",
+      "bytes": 191231,
+      "sha256": "87fb55bf5703c063298c7f43258dbd864a3aa0c71f98d40f6953f83c7d9b2939"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00032.npz",
+      "bytes": 184868,
+      "sha256": "c7d9a669d18d5e751ff660541184ab86852f59dab453bc124ae0e9250f7dd533"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00038.npz",
+      "bytes": 385355,
+      "sha256": "2b1fe58eaf696bdcf119b4b63b85a9413a245ded6ed795cd1f2446c458b0e907"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00063.npz",
+      "bytes": 207670,
+      "sha256": "b692396c0e8917d8a6da14f34d08bf8eb2d06cd4cb53b08fee42ee98e849b6e8"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00031.npz",
+      "bytes": 214128,
+      "sha256": "7960bd4fab9c8e74f2a1037c09f4bba17c547d499512e087f139f68a60d1e311"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00023.npz",
+      "bytes": 618450,
+      "sha256": "aab6f7d69ef58c42af20e6f0ced17b2ab3ee3b1846aacef2f8a89066a0417b44"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00120.npz",
+      "bytes": 209908,
+      "sha256": "9d665ae6fd4b2c053792498099a8b9a5746ff85a357480aec5ccc01e7eb2f07e"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00005.npz",
+      "bytes": 251930,
+      "sha256": "498c495f355ea0936171d65e9feb4442eacdac5f3b21fdeaa674e351078f75b2"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00073.npz",
+      "bytes": 283545,
+      "sha256": "49b5e10cc497918d37ee88b05c297fb1520b07503b3950c79757f3f4b24552da"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00097.npz",
+      "bytes": 380036,
+      "sha256": "9a35dd8e4ca0eddef8db2318ac16f5e232a88f01049d9c89d4ac86aa32d77134"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00107.npz",
+      "bytes": 223984,
+      "sha256": "3ac747b260ccec0d470d81962ca94cce49c98d12a874a80635bd175f0174b2b3"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00166.npz",
+      "bytes": 210730,
+      "sha256": "5df2b276af47322cb8d808def37c6b1060357dca718a59c23115187ba48a1313"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00038.npz",
+      "bytes": 314537,
+      "sha256": "b661e862249f8f363789d18df0fd0b41da8b3d8f68ab2de9059ff734cc3fa924"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00048.npz",
+      "bytes": 644656,
+      "sha256": "64452fdd9e04b1ad63313cbd57cc6f59b3892a874e0d579e3a6685b96ebbb2a7"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00008.npz",
+      "bytes": 221079,
+      "sha256": "817eccd1e033f406964f7184ac13c4371b068881b4e8d0fdcff3cf289b1b5d52"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00021.npz",
+      "bytes": 403114,
+      "sha256": "47c9a77e40e6d2d8fb80e8b30bb52e9e78667b1def6cb4d8c7ec634e045731e2"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00031.npz",
+      "bytes": 194186,
+      "sha256": "f8a47061457e07ebb69858b062e86bc7992d7444216469a592fd250272f2e8fe"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00009.npz",
+      "bytes": 371528,
+      "sha256": "1e27e4093159b7a348d2891f95d52a5bc92b9d34de7ed7bad6d59f85d6ffac2b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00080.npz",
+      "bytes": 292591,
+      "sha256": "ee951b8b74a150ec1a4613e022f76f153b54b12024fd978e92a900f42f4991c9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00162.npz",
+      "bytes": 231747,
+      "sha256": "c55388307876a7c3c73b0c95a6568758793540add310855ca25a6f9931c67870"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00185.npz",
+      "bytes": 405763,
+      "sha256": "54a1f517b45c1c71590d6dc5cae51985964c7fd4041eca80cf2e2cc18e129bdf"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00002.npz",
+      "bytes": 257879,
+      "sha256": "0e3de0be44536155b40177a50aad996518968fa99b499638f9860cf280465d16"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00176.npz",
+      "bytes": 235676,
+      "sha256": "d2d20dd4acdbf11250798f3cb6c11153af35d0ff5e3305cec758cf87c6c17f32"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00136.npz",
+      "bytes": 225146,
+      "sha256": "60eea5737c46851b4ac822f397ccfeccab1ec7b8f42cdbcd80405b77a9a209e4"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00147.npz",
+      "bytes": 275508,
+      "sha256": "7aed344058895741fc034c57d6c1180e0d7500956f1e136b0ce8fea37e413fb3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00166.npz",
+      "bytes": 274992,
+      "sha256": "aaec9d1ac29c35280379474a4f5d9e5353f3e071baa04bde4f17ed9b43866212"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00069.npz",
+      "bytes": 415879,
+      "sha256": "765210cef720395d00067c60ccf89be8200867d65acf2e1287584751fb041a0f"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00067.npz",
+      "bytes": 326171,
+      "sha256": "78c9ad3ab56f1f354e42d16556fa9998567e2641e4f66fba69262c19eb312c47"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00133.npz",
+      "bytes": 172116,
+      "sha256": "b3d396977d829ca927e491661e66c2994824db273208588590755c3c9a426bd5"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00159.npz",
+      "bytes": 285914,
+      "sha256": "7e9b087ed50d799efb4854a4fa929296da652fe6cffbd57b7b1a62f3f189b118"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00014.npz",
+      "bytes": 320319,
+      "sha256": "9bedb592c7c739fdde61b43a6fba5b8ef3e34e63597ff5c92bc45ad1f7e31a17"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00040.npz",
+      "bytes": 389793,
+      "sha256": "409c90c502d4fb53083d663c5280c2b62503de0bf63546c70c5c7218224622fa"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00093.npz",
+      "bytes": 170316,
+      "sha256": "7192c1cd37c33355c01f4964ac79fdcb82f16ed8e76fc4e45a06a2810dededc3"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00014.npz",
+      "bytes": 167457,
+      "sha256": "2ae4d3d2b323c3dd02fb91944cbd3321d744cb1c0238a1aa98234d31b59ccfd4"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00023.npz",
+      "bytes": 231931,
+      "sha256": "deff5c32dc448319c72ecbbefb8b84f3e7b62d48d856b7977d798a46cbe6bb3c"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00013.npz",
+      "bytes": 207463,
+      "sha256": "902534e31f0f09784e84cb981acf4cc9a8240d111bdbf5c3f8ec8bbd84d0f068"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00138.npz",
+      "bytes": 357240,
+      "sha256": "0d33c52804ad75ad8ac1aa235797cd7782dc87128c6ca347b085ed77459fc15c"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00071.npz",
+      "bytes": 216368,
+      "sha256": "fb6cd7813a7924ac9c4530ddb7ac1e8c9a5007247829497ed2499cf0ad342ab8"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00021.npz",
+      "bytes": 626656,
+      "sha256": "937fee756dae02be729d8afff1823402a2110d6733dbba747c5a57e4f7331a0c"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00016.npz",
+      "bytes": 315123,
+      "sha256": "7a4867edc9a247a3c469521e445968edff0f5ccfbbb5e9d8c42bcc76182c49b6"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00137.npz",
+      "bytes": 262461,
+      "sha256": "c5a243b1b72d4d12b54ee209cf3ce369bd5a669668e65b2272139aac2141dc27"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00031.npz",
+      "bytes": 196220,
+      "sha256": "a65f7c28267ab27cf3f1cca905816640bdfae069bec64348fc04c365d09cfcdf"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00123.npz",
+      "bytes": 455085,
+      "sha256": "e671af1ae0ecf0f32a59412b0325df029385f3fa78b729bbd3a7c081afeb5e5b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00083.npz",
+      "bytes": 310116,
+      "sha256": "2508cec2eac92e58efc0fcbf53e091fb418bb151783a1dae14b97eef9bfb901e"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00107.npz",
+      "bytes": 496737,
+      "sha256": "855e4b394c07870c25ce03d44bed6b496ff1eb43574a52a70087773066191537"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00175.npz",
+      "bytes": 266656,
+      "sha256": "665d4d063409a75aa11efbb1b54df517d7ce09307d8e164c4d5db975beb38aa6"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00063.npz",
+      "bytes": 279948,
+      "sha256": "324d525dd4b409dcbdffd8549cd240a97ba86ab6ec69c36e45ae1ba31b08a8e5"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00079.npz",
+      "bytes": 473073,
+      "sha256": "ae94ad27815b92d7d55d6c587deb5ed3ed6b6efc9d5083193aa74450148ae514"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00170.npz",
+      "bytes": 406989,
+      "sha256": "8dc8d177721a8038904d625ad9ea92deabb2225cee555fe813ba84f6589d7c29"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00020.npz",
+      "bytes": 568577,
+      "sha256": "192f16d6de01ba86b3dada22a7d981388d44748a391e9bc3735c45c5db73e201"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00105.npz",
+      "bytes": 498465,
+      "sha256": "e974f098c7d77ee087cc901f3d1792234e9126087c4e4ee057a5c661742693cb"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00076.npz",
+      "bytes": 290634,
+      "sha256": "3a2a88663fe3d9164b3d0d73b22d5e51824a4b3beb569d57bc08b6c2af1a754f"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00068.npz",
+      "bytes": 358527,
+      "sha256": "cf9dc1d34b15bae6d8b9245ddd3d4c0af09c5ce1ebd8c0d5436df01fd6411c52"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00028.npz",
+      "bytes": 174885,
+      "sha256": "4a0bb3fae16fb72b13f10b4f108cd3525e0df3c17e18e458fc63d521ad2e4f01"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00015.npz",
+      "bytes": 204750,
+      "sha256": "5b07613181b99117a7712caa7ecb51f0770d0bbce50f080a25fb7ac93d615f0d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00174.npz",
+      "bytes": 225376,
+      "sha256": "58f90f84bca846b988ee6a9b321e8d9dfa668b56ad2ab797525b05231ff8af83"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00143.npz",
+      "bytes": 207331,
+      "sha256": "0879fc03c1e4146b49c5cfa44d3f7648dcf212be7b71adda4088fc5a00d917eb"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00047.npz",
+      "bytes": 216719,
+      "sha256": "40474561ec2d7776eacd2ceefa66c85b54784a8b5357accce7f20c16c55e29e3"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00013.npz",
+      "bytes": 346944,
+      "sha256": "ca1f8b8116a4bd62ccdc5b6de1720bfcdfcf5ea3bb1a306019162ce62758d610"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00136.npz",
+      "bytes": 506790,
+      "sha256": "fe15b738ab5f0e449700104353f7363fe050c0eb1b0127ce8d77faed3e24f269"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00003.npz",
+      "bytes": 405419,
+      "sha256": "4b5be979bcb1629ac5f8c7e967faa4e72f911cbbcd64e69ac0aa904adc25fbd0"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00109.npz",
+      "bytes": 463739,
+      "sha256": "b6fcd9d83b161ca60b60c5368e5107d73e064cc08c34a529e0048ab9b31356d8"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00093.npz",
+      "bytes": 315579,
+      "sha256": "4ffb6d62424cd09ef176cbf016b1e5ef54a4824a52759bcdf677fc298ef8ded0"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00028.npz",
+      "bytes": 189130,
+      "sha256": "3535d2aab37046c75b7cb3959a4f50c1ce192452773111fd7074af30a83e5615"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00086.npz",
+      "bytes": 419603,
+      "sha256": "ac54b343f60680af8315bb33fedda9432b87719ffe822f393d3a680b7e43ee1d"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00038.npz",
+      "bytes": 195945,
+      "sha256": "deda9cc1877a58506fb6a7dcb437d5e0b8c536874e5d94328c22d06006587514"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00125.npz",
+      "bytes": 557802,
+      "sha256": "9c86e27127156627406d5e9bd453d6155cff14cd842a79ac76c098c3804a6e01"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00009.npz",
+      "bytes": 311871,
+      "sha256": "a84918b2c783d2ff5599f8dd4d0d7e46ccf1b09525aa5bc3bf2b27f0accc90b3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00184.npz",
+      "bytes": 313792,
+      "sha256": "2cfc97c2ed99d71f05d7649ec5cd54768f84c9e35437e42cec9d8d80234165c2"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00011.npz",
+      "bytes": 232781,
+      "sha256": "ee4cb32dcc7bc6abf1a5e98dd28aa5cec1fea4219360f618fd302917f75e1b2f"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00033.npz",
+      "bytes": 324599,
+      "sha256": "060cc388023f79583606c6e0a9bb637e6b14c0144089e2097f0cac8472f96265"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00169.npz",
+      "bytes": 420343,
+      "sha256": "ab406b114ce542f9cf7b5a6bbbb1d81e4604185f923104c1fbf25cc72dfbfb44"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00075.npz",
+      "bytes": 242999,
+      "sha256": "1cf26c3ffe1922e96a50e752f4bee2cc1a73e138e160b529972857fc1b06201c"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00112.npz",
+      "bytes": 343018,
+      "sha256": "737288b663e7df23c38dd80465d8a5c7a9a55fe9b2a1da27845ca5c977f8d709"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00005.npz",
+      "bytes": 507461,
+      "sha256": "e6aceab9179e6d1c11a2e8b20b3caaf5000a3f6f6cf956d58f5e00f169cad98b"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00134.npz",
+      "bytes": 196037,
+      "sha256": "7b6840f23223317685441e3591329bd5d5abf0d152532bb40ee28257b08689bf"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00059.npz",
+      "bytes": 302565,
+      "sha256": "f95dc9066ba728b4cda4795626366099fa5b0258e4f7484260f1ce3410d81bf2"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00172.npz",
+      "bytes": 432488,
+      "sha256": "c86c8d7c3e89bc07afc7fb66e4faf85cf9b057e3d7d376e681a3ebe70621ac5b"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00029.npz",
+      "bytes": 235465,
+      "sha256": "b43ad59971f7f36a1917456497c1fa6e41842d14f742d8b29a905606df170aa8"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00023.npz",
+      "bytes": 482780,
+      "sha256": "1546dce8507109b94f5ada3f2f3565da0317a1375814c88526f92e0755832537"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00027.npz",
+      "bytes": 199732,
+      "sha256": "e52eabe02a8ae8c7b6d51a68776f4500e264811118b8d27680800f09c3b39f1e"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00057.npz",
+      "bytes": 300987,
+      "sha256": "88e2a369f1bf212203ee0d2d06659357b0db2316791c3b7bbed814e8c653b19d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00146.npz",
+      "bytes": 189214,
+      "sha256": "087941cae2e446854ed84f22d23eb939da50c34b69639a4dd35e8bce630add98"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00168.npz",
+      "bytes": 229222,
+      "sha256": "9bb001f4684e66f236a6e13b065aae3d7266864971376ebd8812caa6183fd051"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00126.npz",
+      "bytes": 486673,
+      "sha256": "077e9e18b7f8adff17e99c729db06ed92b2d4dc3672e59ced7c1619ba6ed5b00"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00061.npz",
+      "bytes": 306748,
+      "sha256": "3e0881b3edad1d352ada5f3decda43c4e3b908bdda4b4aa95fa39b1c0b46f1f8"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00009.npz",
+      "bytes": 507657,
+      "sha256": "4a040f79e65cfd16acb888ee08ae7561be43754f6772090122d2f1c44bf7f4e2"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00108.npz",
+      "bytes": 423284,
+      "sha256": "791f479b40e7bcce9a3c42acab35714e90283b5902edfd7cf472a0af90f84ec2"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00131.npz",
+      "bytes": 147515,
+      "sha256": "abe72b45d054078b794f6ae96ce45b03debc362efb1f7d3db0c7cd8d8ed92839"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00032.npz",
+      "bytes": 210970,
+      "sha256": "ffabd31d6deb42018c2a628d45e570b260c096f5fb1b84361ca3fd072299b83e"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00167.npz",
+      "bytes": 174677,
+      "sha256": "d29becac24c69f5359a238c96ec0185f60acaa5693974d9d96ef2ce0c5872e6d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00119.npz",
+      "bytes": 211724,
+      "sha256": "3adc869659940f8cdf14522b27f21f449ce14e7621ee9c16de105f02fddf919d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00118.npz",
+      "bytes": 196325,
+      "sha256": "b6409b3160a6dcfc318b8a269ff91e2fee78a201bab32c53b41e583d005323f8"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00120.npz",
+      "bytes": 207806,
+      "sha256": "f8c0187ae1d16c389d8ae7072a73293d63db4b7ad2fdcf2da399c9c2b245784b"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00007.npz",
+      "bytes": 224325,
+      "sha256": "658a27dd464b5eee67646b76f28d323f33dee70771688ce4f328ed1c931c6589"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00163.npz",
+      "bytes": 260737,
+      "sha256": "c4cb1c7b386c3d4ead1e49a492e610b296317721573ef46ab4e3dd381e719e37"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00119.npz",
+      "bytes": 216715,
+      "sha256": "2acc173c5b648e96fe63d561bfae252f33ab9a6c6d054d443711bb23055c698d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00089.npz",
+      "bytes": 408257,
+      "sha256": "9fabab414dc6747074fd5afd437740fe788917f5a769f73a832b64371b8e4cc1"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00007.npz",
+      "bytes": 447500,
+      "sha256": "3299b633de36ae9aa7c74faaeb86e106631a5c9f8204538ad3c09cee67474982"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00181.npz",
+      "bytes": 201192,
+      "sha256": "f01785ef3338b20b71f99bfa147de55a3160e35c8d0836175865ba048860e1d4"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00001.npz",
+      "bytes": 662343,
+      "sha256": "d215c60b24536d7f10a8ea67998dcd068c6491d7a9c3de56e3957a45f0d53d93"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00012.npz",
+      "bytes": 214120,
+      "sha256": "1baaf40b560082aef906d59e250dd37677cbd770307ed19d04b04cf366ed213d"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00025.npz",
+      "bytes": 567710,
+      "sha256": "23065f60ae7d434dc645a832eb8ae660bcc2c44f254dc5b3f3396419d3cb5e13"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00024.npz",
+      "bytes": 511417,
+      "sha256": "d7d51010a5a7ffda47990c0d83f016b01973b94e5085027f043d1830421c8f84"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00111.npz",
+      "bytes": 480397,
+      "sha256": "4d4d990bd33c50c9a342a4f453fc2c7b89610c4d1b8a57911efda21b192cc54c"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00036.npz",
+      "bytes": 211802,
+      "sha256": "d9c56498aaa3f3fdcfd30b17e6c580128b35553538287e805014ba65f2ed9343"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00016.npz",
+      "bytes": 200878,
+      "sha256": "520927ea0c9310199854c8ee34b4f9f110b00611a184bbf84aa691ab96866059"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00028.npz",
+      "bytes": 177433,
+      "sha256": "d8e7b713c9ac10b389185f528898220f5a881b896de3a4936ea543042011d1c3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00153.npz",
+      "bytes": 362316,
+      "sha256": "ceed6b8a408a7d53213474b7efd6b233b49b3b92b57e31d2863a33fb4f65c699"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00082.npz",
+      "bytes": 308863,
+      "sha256": "a0ae68e60f4c0e6dc135ac136d8a2bc2e443eb4d510e2255f60e4768553ad273"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00030.npz",
+      "bytes": 164222,
+      "sha256": "cf30f34bee85adde77c259934662ba859c09e26304a5670317b3e0eac8576f25"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00168.npz",
+      "bytes": 463984,
+      "sha256": "c41bebd453fea29b4d83f709fef9400f834954f8da9755e620bb70e3ee647f9d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00044.npz",
+      "bytes": 239763,
+      "sha256": "2f9a0a7a1e404661be95d22c5676e74974e704ae0d26178a50b93fee355ee5ae"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00025.npz",
+      "bytes": 487735,
+      "sha256": "8e7fc2386a1009e2878ced418ec21fcea8b47c3ad587198ae5349701b4d4d9ff"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00127.npz",
+      "bytes": 346355,
+      "sha256": "490573a34df068d2d803136ea7f8187963ddc6f836a333d968c1254673d54b57"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00139.npz",
+      "bytes": 483302,
+      "sha256": "c8fc87b2aed802b2da37ea440fc0267399a14eaabb6331a609cd285c00f8eb60"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00010.npz",
+      "bytes": 187592,
+      "sha256": "169d4b249cd5670a1fe0504a35ceb81bdf8459bf576fd91344e822ccdd966296"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00029.npz",
+      "bytes": 226459,
+      "sha256": "22c48a67152a0ba4f0b404da9a58b6493332dd8ca123661b2661ef282a3194ed"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00034.npz",
+      "bytes": 309118,
+      "sha256": "04a071b9d975c9555fa5b1e3c683a63ce90c582e56f41ab9fe29bf784a3036a1"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00088.npz",
+      "bytes": 242729,
+      "sha256": "e5e4e125e4c87564e4117da18c4039fb361df1f9cc29ab0fa0f29ba5af70efee"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00095.npz",
+      "bytes": 571324,
+      "sha256": "ddf3697d72a4ce53537c19f24ed5def00deb4acd03341ba45486e542e36f322c"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00070.npz",
+      "bytes": 196707,
+      "sha256": "389c10aefbe1caf8790a303d2e20428a1f1c9693e4996b399e6eb7174bd8155e"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00015.npz",
+      "bytes": 341240,
+      "sha256": "20eb32fb21683898613b630cb8cf325ffede0b1bbfa4b67f3375535151554327"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00014.npz",
+      "bytes": 214053,
+      "sha256": "023bacb2f423ef9edbd186ff39bf495cd9d49047afae3dc20fb6d185c43c04f6"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00039.npz",
+      "bytes": 386533,
+      "sha256": "37799532b249919942f06b0c53148b6cb36001052f375879ce7529713e3ef77a"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00017.npz",
+      "bytes": 191764,
+      "sha256": "89f08cb8e873dad8cec6ccc72f8637070c55e74316030e694d6e791c9bdef26c"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00129.npz",
+      "bytes": 216762,
+      "sha256": "ee317b8c65eef7adaf33954bc9c027866cc6b9af4da67ebde94f7c50aa93daa4"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00070.npz",
+      "bytes": 364472,
+      "sha256": "f6ef982dcb52eec0f684b28cc57570e676ac0605ffb35873cb6aef05f4c92311"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00141.npz",
+      "bytes": 458812,
+      "sha256": "39c5afa963524bd8ec60f01f9f635ed79cb41d176a9091bd79b8a689faf1d2c1"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00022.npz",
+      "bytes": 440362,
+      "sha256": "74a000b8c08a28daae0ff00a0cc829cd9261590ef3431d52cc6a67b51dc29a58"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00042.npz",
+      "bytes": 352073,
+      "sha256": "56adad05c3095f5cb8a852a75a2de6a7de475b4417fbd68e849be9d14cd090df"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00062.npz",
+      "bytes": 124792,
+      "sha256": "9892711aec46eb8003784c8cd13c4eb11b84931a1be21392452acb70a8dd31fe"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00052.npz",
+      "bytes": 187812,
+      "sha256": "fae0b4c1a1155a1a7d0baa244509c44d635c2cd8a36c67041eba3fbeb23f2c51"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00058.npz",
+      "bytes": 220749,
+      "sha256": "8afecbc8f3f8f45983f77c449c9afe8576d0ff27f8f34971be66fe64001d75d2"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00085.npz",
+      "bytes": 469303,
+      "sha256": "42b9fd609e58a8de839af97391ce5106f04ec944b5937cc395a76273e847b17f"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00070.npz",
+      "bytes": 284225,
+      "sha256": "d780c45d5a8d8886d115ef1f7e404f375c50dc49d1e788255c8f28b9f83993f1"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00001.npz",
+      "bytes": 449532,
+      "sha256": "ec799d1907635108b92b661ab66854f419a5646e4e24872b53d278b55757e194"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00041.npz",
+      "bytes": 320487,
+      "sha256": "9837a8bf967f43ad7770de340c97fb2d796a3e65420304864f3ee5528e801b8c"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00007.npz",
+      "bytes": 485113,
+      "sha256": "e8bdcccb4144aff9a3e88b621b34946cce097c5be6545b2c38b4827729fd10bf"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00035.npz",
+      "bytes": 643661,
+      "sha256": "8955525dc4710950ac9b450d95e08dafe833e3d06bdea5d0c9e73edc80c358a0"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00003.npz",
+      "bytes": 190603,
+      "sha256": "5cd991641e06327c55794ca12b229bfd09d4ca7f5fd23ed1b116587495ae55b2"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00028.npz",
+      "bytes": 175911,
+      "sha256": "974e2f31db0d50a0247cdb0d2bde7946ecd42ae9be455c27c0ec8a22d144a0f5"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00132.npz",
+      "bytes": 204424,
+      "sha256": "ae611acd912646c627dd8f9b6dbd860fa624af31c95f2a62f4156fbf43d60b75"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00101.npz",
+      "bytes": 603801,
+      "sha256": "c2aae09e47059240647070d565ef817cd188fa824cfc23e202c4e171326606e0"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00150.npz",
+      "bytes": 298132,
+      "sha256": "5aa952fe4dafe9c714f6dc75e25894943c7407b71b1dfacca4c306e63c7600d0"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00044.npz",
+      "bytes": 184231,
+      "sha256": "c6ae211a59bf1d156de26a427360497c3bb830534b4a8d4b91838f0077d79023"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00065.npz",
+      "bytes": 179941,
+      "sha256": "67c2d428e0bd6a1c77e928f6b5acae28e34bae88e55849ff93249a82f59eae8d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00115.npz",
+      "bytes": 212859,
+      "sha256": "74d012df56d9ea49c422262f02379b2e62fe59ef6df18d4726c5eeacd062e559"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00030.npz",
+      "bytes": 197248,
+      "sha256": "74498ae49da10890f0f0c5c9b1c043c880ec4dadd7d82c87d70b9634a25ce109"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00021.npz",
+      "bytes": 507050,
+      "sha256": "55d18fdc4d15a0a9ec32419a082ccebe9a154189e450e1cd74d48a0fec31e265"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00139.npz",
+      "bytes": 474409,
+      "sha256": "a3a21cb5f7a257b943b054df241dce2ca4569be495635c7af509f292370ca356"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00069.npz",
+      "bytes": 265692,
+      "sha256": "51b14a151f8b70e7af979159082b4c54dd85fb9509c2c1574f3645119f48e0e7"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00102.npz",
+      "bytes": 279868,
+      "sha256": "48b62bf321768b68a5f2004f1c2dca60f12f0ed0cbf3077a0a517bac343cf5ff"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00138.npz",
+      "bytes": 440609,
+      "sha256": "37d970906ea3201ea34352bf14203043a59e16f4555aefcddb371624564793ec"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00140.npz",
+      "bytes": 439988,
+      "sha256": "79541e423c52bde58fa8b459b60ff75ea061b502e14010d2dc82a17f54c15c34"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00188.npz",
+      "bytes": 174588,
+      "sha256": "789d3ff8c41625f0878becee36e00a044d7391053d7199123b60b54fdca2a63b"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00051.npz",
+      "bytes": 241435,
+      "sha256": "4676bf61c93d3bca618deda546752eef73acb99c0071d3e9886186957ae121cb"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00045.npz",
+      "bytes": 213425,
+      "sha256": "047ff1d2d8d0bf3edcc16b06ee1064f93278517159903040154d1affe3caeef2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00081.npz",
+      "bytes": 376071,
+      "sha256": "f171efcd9b72b3f113ba2440e02e748760cc992add747930bb88e760e7022d7f"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00066.npz",
+      "bytes": 157465,
+      "sha256": "8fe014ca2636f539db6d62ede3c570fecb3e1be3ad36a5c5df9acc1a97106714"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00005.npz",
+      "bytes": 525266,
+      "sha256": "bf418095858ed5561a9992a70e1f5b02404db5bb9edcbeadf745e499df1a49b4"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00055.npz",
+      "bytes": 540780,
+      "sha256": "e1dfb54a9357845b471ffd39c2e3c627e2608b4d20969b2ee58ae7a0be8a746f"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00071.npz",
+      "bytes": 360757,
+      "sha256": "10ee4540b5d4b6109e053a4dd9e7ba6762c7380bdbd82cdf4e44d457eb42eb4d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00054.npz",
+      "bytes": 390620,
+      "sha256": "c389e110ec5b631b98be1f0634594a809fd70e1f1604b555970ffd6b038ee2e1"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00033.npz",
+      "bytes": 243951,
+      "sha256": "5fbe12dcdba207de7c8ed2d8cf872c440db25147d448dda1a2a1f5f2d6ed18f2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00021.npz",
+      "bytes": 233495,
+      "sha256": "87afff85b00f91ae8bee25f83898ddd3e40d65b54ad2435475608ca3541e1e99"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00140.npz",
+      "bytes": 247723,
+      "sha256": "98e4e46a0ef31f92088e3d35ee7127e3e886827b1a810355549173fa31b4f61d"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00026.npz",
+      "bytes": 254301,
+      "sha256": "3bc4ba66e4064a9f8c06190e7dd4f956af6323b56534ed6db2353b0781668d11"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00066.npz",
+      "bytes": 728086,
+      "sha256": "b117b9ab9365a0a078dc1788b986f4de9883791886b86eb4e599a73898d109a9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00178.npz",
+      "bytes": 181036,
+      "sha256": "3a05d7e4bb92b992a0b9491aac4bf1a73ab1a5157f003b42ae7aa5b3b39e196a"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00037.npz",
+      "bytes": 396675,
+      "sha256": "0edfe27001c265fc4c9b8dbb295470bbf90531b5d721ef4bc6eab5a145d62e9d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00175.npz",
+      "bytes": 481810,
+      "sha256": "f79406544964c28deb19bcbb933278cbd7ac9c89bb76363e628824cf10c8b256"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00131.npz",
+      "bytes": 223768,
+      "sha256": "6d09455755defe10b87c1b0da4ff0e048960ac88a29b22fd7b72cfe2e90ef1ba"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00151.npz",
+      "bytes": 364745,
+      "sha256": "47ca54d0b4f21dcac4ced63a2e095faf0efc01ad237714a34137ffbaa5cba489"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00096.npz",
+      "bytes": 488365,
+      "sha256": "44f8e9168f1569e4c3b6ac8cea95de073e02f7ed727373bda7fe2ea93e460d8f"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00016.npz",
+      "bytes": 182367,
+      "sha256": "e88fd8f7ad0c215c9ed3e4fe8232f7cb634c870045e112b8b58eaefefe64c3eb"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00074.npz",
+      "bytes": 233078,
+      "sha256": "df7ccbebc52989d6356df3cb8461da2c4202c1d2c2c0fbb853a3fb1cad133535"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00072.npz",
+      "bytes": 191797,
+      "sha256": "073942137a4c7925a121aa0987c239b9cff6988856967d3ec5298344f69ad454"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00085.npz",
+      "bytes": 182906,
+      "sha256": "e05e168ddbd15c5d4b734e3ca908176cf79c9f6d3bcd718a2c61e2dad8b0fb87"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00012.npz",
+      "bytes": 292138,
+      "sha256": "e9ef054f1fc9236987d99500c17009fdf73ef25bf2766f3ed9cb68e0c17501d4"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00149.npz",
+      "bytes": 388604,
+      "sha256": "4c7313347ba4816a6758c1877d4846396374600dc357a0ec3beb261e14fb659e"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00086.npz",
+      "bytes": 163471,
+      "sha256": "6870b1eb9e3ce8b352875dd7b509e1df0ccff907c524678e98468115f791122a"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00076.npz",
+      "bytes": 238967,
+      "sha256": "4c42d0259082845e548b3f9cff968c71edda151266f83aba430ee3af559fd6f2"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00021.npz",
+      "bytes": 420316,
+      "sha256": "8057915e057b24a1fb0a4b3dccb82731625064599447e55a1320d4bb42586c62"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00026.npz",
+      "bytes": 226946,
+      "sha256": "050d27f6da285306edbecccffe148943aac5f812fec5285b4f87fd502405e592"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00080.npz",
+      "bytes": 350095,
+      "sha256": "002b1b1b7cc3d1302a89ad92634d614c7e55092f37d441fcfc980c7ce717209a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00064.npz",
+      "bytes": 132806,
+      "sha256": "34b27921b47bbf7397d378ccbdc0c3b1b30f24ad3a252f062a9e712aa81b6028"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00191.npz",
+      "bytes": 228327,
+      "sha256": "f9667a2f4a2ea0d76ae75c1a67845f92b05d8bdeccba727fc819143764a6181c"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00156.npz",
+      "bytes": 288657,
+      "sha256": "5e9063217aa7f58d899177549f33ec29254dab7b18ad8ab34eca003412607a74"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00148.npz",
+      "bytes": 263496,
+      "sha256": "5ec65e151801b99507b1c673dc6d6c53e150e54919a8394c4be734737fe4b105"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00012.npz",
+      "bytes": 166300,
+      "sha256": "991685e74988553209b5e347f093d2d349cc5acb989c857d518d690208075e33"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00062.npz",
+      "bytes": 172343,
+      "sha256": "55626607276eef2893cdd9703e0de90eb1b758e0acbf0c50745e4c982e13de3b"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00099.npz",
+      "bytes": 228898,
+      "sha256": "9b998b58fe8f3abe0b9272727776c472671fcd779102fd4919892652d9a659b3"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00082.npz",
+      "bytes": 348138,
+      "sha256": "d76046198e83f70faa83e68d2bb2769c630a425159eded33f4fadf6da8529b4d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00072.npz",
+      "bytes": 319617,
+      "sha256": "aff4ba6dd3751b22ae9e203e7c958aa711503b21dbb2049fb0ae4f083730f0c7"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00074.npz",
+      "bytes": 106884,
+      "sha256": "c9f7f6518e8127606c862fdd61d81e1bda33ae4ca86faa4127806ad72ba6e13f"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00031.npz",
+      "bytes": 203731,
+      "sha256": "508245cdb8dfa2a038af3b2ffde6337f6b29d71668d6b11c62e76a8f92c3008d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00126.npz",
+      "bytes": 324771,
+      "sha256": "60026c6753074ceb35d9d988cd3cd053dd6461e0e975986c7e0f4ce19f4b4665"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00095.npz",
+      "bytes": 290198,
+      "sha256": "ed964011ffc61689d5afaa63c1daeb2fab11643ac8d38f015acf75dbe2cc6c76"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00081.npz",
+      "bytes": 420242,
+      "sha256": "f60b1b3a2ee998aa1667e0169d09570dc9ab4707c10e973e76459ffa1286ece7"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00011.npz",
+      "bytes": 280185,
+      "sha256": "9e1185dc53b00653b256367cfb23cc9041f4cf30217172ed14f8693dc072a0a7"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00183.npz",
+      "bytes": 469372,
+      "sha256": "6d26c2d4fba9638654772799fdc75e3a5f07f9618654519023e6b4de29ceba55"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00130.npz",
+      "bytes": 169590,
+      "sha256": "f252b43bc30b76bba25ddc6e254ac80e46e1828a62f4fec26c7b7834d1dfca1d"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00013.npz",
+      "bytes": 176146,
+      "sha256": "ab08677425e27f98e4563f22f9e8312a65dec0b8835ec1cff5b29d42a05ebb54"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00073.npz",
+      "bytes": 180498,
+      "sha256": "eb9461ad71a7bef5f4d174d332538f00c853d123b0bdeb4dd57b81c7f2cae246"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00096.npz",
+      "bytes": 362050,
+      "sha256": "ff6cc0b1f1b1aa98319af3f0c2cc3ef8d180659d65c9eed7a042abd19a722023"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00076.npz",
+      "bytes": 174570,
+      "sha256": "1dbe1c3ed6bc7a64ea7926fde4025f83c92f5c6196a261f7249994ba32841158"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00014.npz",
+      "bytes": 260691,
+      "sha256": "dc871bb2081e5d0dcca317f6a77008225c768be47b044a5aa80b487635f3480a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00026.npz",
+      "bytes": 207974,
+      "sha256": "f307f0ad042d26c181954c51d0348f4f7136922c13635e9c74919c4fd6afe8b2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00067.npz",
+      "bytes": 281046,
+      "sha256": "aee9c93be6269c51c637c463f0acb03ca77ef930f8eab705c3c1b7f17fbdecd5"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00040.npz",
+      "bytes": 301209,
+      "sha256": "25d8290a06d4243b1b911319c7267f3c57d9651aadf0a1b68a1b613eca2f19c0"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00018.npz",
+      "bytes": 288053,
+      "sha256": "0dcfcb638c32ca76d8732a379298c938c941aa102661e5152d964cee43fa7160"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00069.npz",
+      "bytes": 245984,
+      "sha256": "03ea929e50998a0cb41ad92b6707af85351efabf44b4d300be5e44c3e37db837"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00006.npz",
+      "bytes": 420707,
+      "sha256": "b4bf0a3da51f25cc94430c2798cacf36cc405ea77ce26b10005a1bd819757532"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00046.npz",
+      "bytes": 185021,
+      "sha256": "cefd992e7f7c611684ae041e2130fe419ab111032de3aca8d1b296015b1e81c8"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00018.npz",
+      "bytes": 353731,
+      "sha256": "875812076f754897702d00f2835dba5b102864dff1208e1845e5038b95bd5345"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00022.npz",
+      "bytes": 607633,
+      "sha256": "28de0fdbb1c1a76b53fb0012686a6af38263574c16cba954ab5f86ca090bf23b"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00053.npz",
+      "bytes": 338620,
+      "sha256": "a60d8d16426793d9697eb688444f60848c7d996951b30ee6b59168874fde635a"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00030.npz",
+      "bytes": 200098,
+      "sha256": "067e25246039e5824690826b06ce9f45a1702e7653c6ecbfcea19d9742051f2a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00075.npz",
+      "bytes": 124191,
+      "sha256": "af2e9d88670a7d942b93c4b4ac78a2c9129542964865ce6fd2ae38191d57385c"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00050.npz",
+      "bytes": 558070,
+      "sha256": "e621314b95504861518ffaec347a36ce3164d4d2aa5f2d7921d6ee6f392890dd"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00025.npz",
+      "bytes": 409738,
+      "sha256": "736c27f294fca3a694915d0af604ef6f9a39766d76d096d073554ed704a3e7b0"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00009.npz",
+      "bytes": 477887,
+      "sha256": "c8872e5a10c6afdf1d5f5e3df93bd7af72647f765730ef5a31a465e032b8cbf0"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00002.npz",
+      "bytes": 513641,
+      "sha256": "9ae9ef5d39627a7d9b7ab847b35598ace086990685fc32142b10bd2dc6d9c610"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00153.npz",
+      "bytes": 283169,
+      "sha256": "4f2e36b9f01375ea400a48640ea8cc09c6caeb52e72af8fb99652a83e577b50c"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00052.npz",
+      "bytes": 661283,
+      "sha256": "00cdb59672160455e7dc1180f442bd403d387956ad68954f7fa1f2a2f332e8df"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00077.npz",
+      "bytes": 241839,
+      "sha256": "cbc1a6417d1932346da7bf24fa6b570ca0b143130133d9c4c93d16ed0dc176a7"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00034.npz",
+      "bytes": 172178,
+      "sha256": "c03b1b5ab39750303b6872d8cc2bae35aa7dffa26f6b56796215bd55b5039540"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00010.npz",
+      "bytes": 284375,
+      "sha256": "93eec85f810f5dafcfb8e83679cb90e3967c9e57290b3d8dc148638ffde33501"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00022.npz",
+      "bytes": 289154,
+      "sha256": "7ba17fafa50ab04171a3f0ced5d446f1f0f10958f2555cfa1d56d08763fa0da5"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00052.npz",
+      "bytes": 266752,
+      "sha256": "0c3dd672e7614011d0aeb919022f268fb27cf41e1407673bbb0e71412c92d297"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00171.npz",
+      "bytes": 550448,
+      "sha256": "d5ce7fc19a5e9690a729595ff6e9ef8294a86b3e8c5643e3a9c085f637d5e82a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00162.npz",
+      "bytes": 200567,
+      "sha256": "57db0bee74d80cdd3a527171842e32abbcc639a58808686744f05fef297e69fe"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00067.npz",
+      "bytes": 210371,
+      "sha256": "b600195441b05154726a4db0f37115d6c9ac56bd2ffca02c3af3ace112767582"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00179.npz",
+      "bytes": 234842,
+      "sha256": "9496cd5dfc51be1cd060e7289568426b1cbf876f17268d594f3f0760410afdba"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00048.npz",
+      "bytes": 231538,
+      "sha256": "43002143f8e6d8784ae02ac90c186e73936abb4fa7840ea1bba82b005c3c9865"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00063.npz",
+      "bytes": 503408,
+      "sha256": "fb39c39264a349e8370f2e98fec0fb54274e3d7dd72b630dc57862165ffe858f"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00054.npz",
+      "bytes": 294795,
+      "sha256": "26369f6275228557da594a1f411400b16d4be0d639b8039ffaca1bf433b72448"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00004.npz",
+      "bytes": 235384,
+      "sha256": "590816484ac9e36af5ef48d776deb4e44b55c4339b2d604cb950fff3c28dac7e"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00083.npz",
+      "bytes": 317136,
+      "sha256": "f460e4d92e05f4ff25da509de921a1305620707e44ea0771bdb300a22bfa8b88"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00094.npz",
+      "bytes": 233729,
+      "sha256": "2a63e05b403d8b29dfcfa4994e2bcf38f1cd2e236ead61de74d45882ccb2a5dd"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00074.npz",
+      "bytes": 250290,
+      "sha256": "0c38747e41e9512053267ddee9d204311319b88ec369b0690c2a955656e77a79"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00097.npz",
+      "bytes": 533787,
+      "sha256": "8404c2bf2a25291a3a4e33c9a09512d5c8720c6ab4cb357da62421d8f124b050"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00026.npz",
+      "bytes": 144219,
+      "sha256": "0aeab072bc12c59541771ca8f982c1f1f57e3b5236d2e33d7c93299968e771f3"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00058.npz",
+      "bytes": 180691,
+      "sha256": "e9c1e01142910d758fc80fd6da7096de4b9d2c37049e19616cc6f98e61af1e9d"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00030.npz",
+      "bytes": 213799,
+      "sha256": "0080468819ea28eb68396a025d89b0c7b6347b3ea201d01d7dca63440c36beaa"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00165.npz",
+      "bytes": 221181,
+      "sha256": "bccbdc17e77d13adec809e958ff41689e2eef43eb17ce07081871bd5aa8b17d1"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00078.npz",
+      "bytes": 319915,
+      "sha256": "f1443355ad1ba5c3e5c6a57891f8ee59296f3757a14ef9a467279b86fdf1ce49"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00146.npz",
+      "bytes": 221704,
+      "sha256": "ad4bb211b6080d6df9a14af7d3a82a359992b7656c675a5027e13069aae42128"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00010.npz",
+      "bytes": 237109,
+      "sha256": "a58d3db7541596a0bda3a87ee80d53db02ffdb60a3bd6c28952aa3aee5c2763e"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00137.npz",
+      "bytes": 548020,
+      "sha256": "d71f672f59c1e45ab4d378a30acbc951d6e114ecd2d31532636378ed07098f55"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00124.npz",
+      "bytes": 386211,
+      "sha256": "b6ee098003a4675e5009871b7338939163f6543704060428e83c4124a71f4285"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00019.npz",
+      "bytes": 298971,
+      "sha256": "f29b60dc39381f50933a2f433c59e5127a11d7ef3326676476375435ecf3f1ee"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00018.npz",
+      "bytes": 205137,
+      "sha256": "48e92ac585bf3159625e6319d58c36f3356f6e0c55fffbe8065e922b2bb2e778"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00024.npz",
+      "bytes": 443433,
+      "sha256": "a4bc83e79a53b41fbb88a123cce3b362d8267e36fc3ff9ca79ae4912be565f15"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00004.npz",
+      "bytes": 234555,
+      "sha256": "b65d0b5ff414078b426418760076bfbcafd0a87c5ec0412623edfd547737cd15"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00086.npz",
+      "bytes": 173922,
+      "sha256": "9a706d5ac356ac3bd0fec60e433b02ba2c3aaae1f2ce6af28e7d8a422f25b5b5"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00128.npz",
+      "bytes": 665701,
+      "sha256": "1a5ce987e3c707e6ff123b0c171677573b43a4de194bee0e968199d4c070e4b2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00047.npz",
+      "bytes": 232189,
+      "sha256": "829bf986b90f2c7721294ac5f7464ca4975a16c436b606348867b764f8300990"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00043.npz",
+      "bytes": 228951,
+      "sha256": "16f4fd962abffde14fa557cfecc5143ec2d597a231ac1a2d6b7ce94f50fd886a"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00157.npz",
+      "bytes": 464634,
+      "sha256": "3af4a1fd9c19ed3ba0074bed76d62ac623bec38d3c4953187997ce0d77133074"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00032.npz",
+      "bytes": 172573,
+      "sha256": "56283dc5bf38b158caf2ad7b41acaa4367d6da2a5240e5ffc4f6e1b7921dd2aa"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00160.npz",
+      "bytes": 241135,
+      "sha256": "c4b1075a94e45684f17a4cf177bb14543795062f190089a0b184da46220ffb4a"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00027.npz",
+      "bytes": 209215,
+      "sha256": "06e6760d78128614d9b0fddc86d4fae52417f4963d5c661c8af93481de5c94c6"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00149.npz",
+      "bytes": 206453,
+      "sha256": "63c13ce749e738d6af50a27ca6fd98483802bb53b536caf5283352a41363f084"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00015.npz",
+      "bytes": 214123,
+      "sha256": "7bcc3642d9c605556c7294ba7c40706d5344465e8651a3be59c4929c7300c2fa"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00118.npz",
+      "bytes": 224445,
+      "sha256": "6ad8f0cdc7f7a79b11da7034343a7081dc3530ed962fa3e6aed2dcafb7a4d39f"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00104.npz",
+      "bytes": 318039,
+      "sha256": "ff0ce06723f4644f463bc3c6d1a7f420327ccfb92f2de53751b6a5fd9fa6d96d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00142.npz",
+      "bytes": 218177,
+      "sha256": "31cb470306a451214971db2aee78658440d3749dd4ecc48bf7219b8690484351"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00031.npz",
+      "bytes": 258948,
+      "sha256": "ce2732785ffbbf6ee44067502afa6d86e5374c3002b1b1ddd2b57c6b9fe4a954"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00036.npz",
+      "bytes": 375764,
+      "sha256": "8157ee8f003706d42d6cf5b9c562ef0cd91df0e371818b4faea31b060aa2e75a"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00066.npz",
+      "bytes": 352136,
+      "sha256": "5392348fd31e43d48782601b2d4a21105ecfd93333b512541bac1cf4850c1188"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00106.npz",
+      "bytes": 422210,
+      "sha256": "cd01e97642f57158a729b70b7ab0f9562babe09ac1fb89572a2ea72cc14e50c8"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00087.npz",
+      "bytes": 170782,
+      "sha256": "d4147b3cd5cf38e71ee058002b82ca05352671d640c10126eba103d07a541194"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00006.npz",
+      "bytes": 506682,
+      "sha256": "05cfea48c066d1ee42cad273867019852e76de7b4e9c017cfa343e11e2c5c0bc"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00007.npz",
+      "bytes": 240315,
+      "sha256": "42549a2ca5877b078d192c306695b96c6205d79c08bef90f12ed080abf4d0f48"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00090.npz",
+      "bytes": 198230,
+      "sha256": "a5a9b2c0ed9cb970cfb69cedf5986078cdf965d946d96a49ea7b0e2fa8e546f6"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00056.npz",
+      "bytes": 552047,
+      "sha256": "7c3ff0858ad9d896eae94a1b64ce0bd1ff64732673de954cebaaa5f5f3e80207"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00072.npz",
+      "bytes": 204065,
+      "sha256": "2184eb8447e5ecd214b4de7822bdcda43f349bb418dce44535e23f510584c94e"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00180.npz",
+      "bytes": 255179,
+      "sha256": "dbf9ade88e272ea87774ad9279cd44c7999debc9182925c87f0727081e7dc795"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00053.npz",
+      "bytes": 678465,
+      "sha256": "6e2ab0d9a88a632dc6e637835e5b72ed784799300ff00188e78680575f3d1bdd"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00152.npz",
+      "bytes": 246096,
+      "sha256": "16e5f3ed8209897f8ca09dda3611110786a060b770e6cfd4a04a675a6287a084"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00057.npz",
+      "bytes": 190927,
+      "sha256": "e6e65782f1cc690d8750546afbae1973e14c39fe9d5c6e99a3d165d7ff66227a"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00046.npz",
+      "bytes": 194842,
+      "sha256": "7f14ce5dd1b1be7a1ff6c80d875435c835fb4d6af63f24d3614082f905a989c3"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00017.npz",
+      "bytes": 181670,
+      "sha256": "e5abec51547a88e9089a4a635370753b3d1ab42a5480e894c919ceeb5c72befb"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00008.npz",
+      "bytes": 488038,
+      "sha256": "6b606b47d0db9776cb3c8d691895ab7b6aca6de9978db075734c493835969d89"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00112.npz",
+      "bytes": 180757,
+      "sha256": "2b3d1fe7c7a0557bd7f38f53c36a76be2de2f22ee8622b587484e0dde668f091"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00073.npz",
+      "bytes": 263435,
+      "sha256": "d52cf2071587184f4d64b45c322df01bcaa0f9fbc4f195aec50f63992f2d37d0"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00015.npz",
+      "bytes": 214806,
+      "sha256": "327a4bf5e5955f55289b94270e59d67c06cb09da44598a3c6d704872ed16f02e"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00082.npz",
+      "bytes": 477370,
+      "sha256": "2aec63eb25d3b35ac05f90888322d23de068189dfde59f255c05a5fca1b861dd"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00114.npz",
+      "bytes": 323727,
+      "sha256": "1a4f2f23b74ace3c3c9cbf8c0e7c05890285b89457c80c49cdd1483d385b990b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00084.npz",
+      "bytes": 317516,
+      "sha256": "4b621185c3775fa5b3fbb2956d175a1869a3654583182e415055391215b49713"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00135.npz",
+      "bytes": 499718,
+      "sha256": "803c4a278b55dbf854196e47bdc84666f201f861ba7850e835e12050fe26cf23"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00029.npz",
+      "bytes": 231650,
+      "sha256": "d5b0753320d78446758f1ca9a6c4f6df2c0ad1d7f454b6ae4d525af376e6bb9b"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00033.npz",
+      "bytes": 590996,
+      "sha256": "36a2e7483d96e016cd9f43159e8d4f1eb21d9c85f54cb8f1951de62c870532e0"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00080.npz",
+      "bytes": 503092,
+      "sha256": "7c2ac6b9f02d2c1787b51d88004e85b8027ce7fa1d9691aa725a7182047eadf6"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00051.npz",
+      "bytes": 345080,
+      "sha256": "42c875b37aefc73c5744d0f1ede9cec106090d7f0fa65da16c5fa3cad4028b6b"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00144.npz",
+      "bytes": 159250,
+      "sha256": "5e60efefaad8bbfda1a1ffbbc388cae27c9800179dc4b8e9696838ebc4775e9b"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00180.npz",
+      "bytes": 221734,
+      "sha256": "1aeac1df3402aae86b42d3b0b623d19b85d65e7b49935bbef7ee22f87d5e1cae"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00091.npz",
+      "bytes": 285533,
+      "sha256": "38c0cbfb07e9682002920298299b3f127d794fca23b0c8f6b4f9b77372652991"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00037.npz",
+      "bytes": 462231,
+      "sha256": "3976038ee789f77f29bd856f981e755285aa93ce29133b5bbd8bac2d7d95cb91"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00004.npz",
+      "bytes": 514974,
+      "sha256": "cae02f8107c451bbc1acc811e9509d2e4c6336bc0caac49374fe958affa4b313"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00013.npz",
+      "bytes": 197949,
+      "sha256": "628f6fb734fcfbae9f8a1002a5f0637fc1678e54b6330983b28cef0c0dc309a4"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00040.npz",
+      "bytes": 329699,
+      "sha256": "c1860fa38889211d12329b47ba09bf9b4a9f399b2bc2a52bf23f213e1393d9f5"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00057.npz",
+      "bytes": 271520,
+      "sha256": "8170446d548a7bf08c3ee3c2df7cbb14f97cee69c88c77fe16c1e824b51350ac"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00001.npz",
+      "bytes": 251094,
+      "sha256": "2d448d60c7584905986ed62afc4afb85e6d214bf1838a0de6ba2f1ac5c131ba1"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00148.npz",
+      "bytes": 165091,
+      "sha256": "4dd8d29750a5099adb4744467484d96d45017c0f64e899903438eba3c087f575"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00019.npz",
+      "bytes": 480327,
+      "sha256": "a7d8228acb73c0c0370c5148f32009cafddce674ab524dfa96005070841edc61"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00059.npz",
+      "bytes": 158569,
+      "sha256": "9776488bc354a91b517fd888f79b2aeb5e5a7e21e875350829a23cd93b8fb615"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00041.npz",
+      "bytes": 261788,
+      "sha256": "1224f039d507bfddaaae3a6cc02c3fc708c4f446dcbdbeabde7d7b31061493a9"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00150.npz",
+      "bytes": 215315,
+      "sha256": "6224812ef403abfccd395486de5b35b6e3554464ba176a55ce468c56331e64c4"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00079.npz",
+      "bytes": 283160,
+      "sha256": "6de24e57cd9963888c4166d31a963ceaed6757f40fc435630835462e5ac64b92"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00001.npz",
+      "bytes": 348129,
+      "sha256": "3acf7018bb2f4decf9ef3d038dd6cafdf7785bf113f2a2c97e47ef92508d96c5"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00032.npz",
+      "bytes": 196003,
+      "sha256": "a2f571920d3d4f6e82b42c331790e52a74fd6d0d7bd122bcd3f224e3f6fec6b6"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00103.npz",
+      "bytes": 339219,
+      "sha256": "1f1c138b2df7f463da4dbeb6e7a621bb18e525f1553632324dcf9f1e24b69341"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00019.npz",
+      "bytes": 577928,
+      "sha256": "b452aa7f156e3a72ca154df3742de2a7a5530c18c29a37a8eaa8a3fb46412fc5"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00164.npz",
+      "bytes": 293736,
+      "sha256": "7680920ae9fc3f91023d686ed2b7958a759e01cded33da80e2c0059531dde0ce"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00159.npz",
+      "bytes": 314715,
+      "sha256": "9feffc16dbb9d4262b2e1cf82e85492f4de691512649b61d61541ce23f534241"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00154.npz",
+      "bytes": 241547,
+      "sha256": "0bc10e03304066f8eb96e982c340168a8a01fb7ae3bf29017b50fd1f9705d971"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00088.npz",
+      "bytes": 212453,
+      "sha256": "9b886a8de15ef7cefcb709cec2209f660d3537f6c0637741c08ef6c3efd00e06"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00039.npz",
+      "bytes": 331031,
+      "sha256": "e7c976136dbcb35129c73a6e853479e15869c0ca202f40a83ab907e77dc22f8b"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00043.npz",
+      "bytes": 262616,
+      "sha256": "cfcb645b9ea6690b5cab04affffcd23e07f6a5608eb0710c14fb9337ec7ba02a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00090.npz",
+      "bytes": 219842,
+      "sha256": "ea8d14da60eba43a6c798c75e8e1736cb819b5e18d522c38febe47c7d59b7ef8"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00003.npz",
+      "bytes": 375189,
+      "sha256": "c27db9850700921489fd0de1c8369546a18180e321dfc9e8f08ca3b3d72abd3e"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00167.npz",
+      "bytes": 419311,
+      "sha256": "ad35fb9a557193ded37663fc7a687fe096d5b52f2192924a8b150d4ef3a1979a"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00089.npz",
+      "bytes": 207063,
+      "sha256": "80750a86df9bc3f0875bf3017e16a14512ee01de2c0ec3f84d7b8afccd98b16d"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00017.npz",
+      "bytes": 258381,
+      "sha256": "10471eba5e9952070e34e97dc031de2b79327910ea2f4c341e46ca2fb7dc9223"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00023.npz",
+      "bytes": 470505,
+      "sha256": "16397fac01d18d9a2fc3a2684a3ecba2b2a3771862b23a69126202ea8d01794f"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00035.npz",
+      "bytes": 359938,
+      "sha256": "c98ee5fff4df8d149e14530b45267494d327c81895b7130f848a2669d4bf704d"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00050.npz",
+      "bytes": 298176,
+      "sha256": "dd8be9e7ce3b98316df81a2835275ef650614134db3b7eb314cc1ca5aac37b5f"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00004.npz",
+      "bytes": 603811,
+      "sha256": "8a69096031783dc661e4122e3ac32628c9324a5c8ec07fe6535dc08c2cf41b0c"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00105.npz",
+      "bytes": 241485,
+      "sha256": "2a3305725443ac60c6c3da9833a1b0df3db875adc25f0d89065b032e0bbce778"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00177.npz",
+      "bytes": 286857,
+      "sha256": "2fd06a48601522e14570c0f267d6072db714d46ff46a1d15d6793e7d0c2d75c5"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00037.npz",
+      "bytes": 542468,
+      "sha256": "73ce80407b4e0006cea626473c6b0d6da9a61803d1a68053539f446c06a63c30"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00036.npz",
+      "bytes": 326997,
+      "sha256": "0b767767357d6ebc5ac684f0a82192b48d7c39f2c7a396d1cef7a91109f3659b"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00127.npz",
+      "bytes": 494808,
+      "sha256": "82a8997222c1370e4351b8ecfdea9c59d98c7704d5d88e3ad2ea9766f0b668ca"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00121.npz",
+      "bytes": 189191,
+      "sha256": "11e554dd90b4166e2fb81dd8a83e7a3d27d3d67ab073cbd7fc93d895bf4a06aa"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00145.npz",
+      "bytes": 155692,
+      "sha256": "105bb8b1fb9dcf97f1d9c979cd53ec06e9c370f748d8795e9f94d76a7cc661c9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00124.npz",
+      "bytes": 447178,
+      "sha256": "fa5f89ebc1413b5673eb91986cb7a9bf87057be822768c8823c19412dd8b07b2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00029.npz",
+      "bytes": 199650,
+      "sha256": "9284c923a4a9406491c691a0daa0963740a69862ee1d56215845c18ce68632e6"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00060.npz",
+      "bytes": 432606,
+      "sha256": "8e5e574bb0696c14149a557c3afd85c7f924fdf824ef41be9c2644ad6377824a"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00020.npz",
+      "bytes": 442357,
+      "sha256": "429544db22d7b9390d36eadbc82cc86db406557d246fae2637f19a85c8ecb98f"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00039.npz",
+      "bytes": 622088,
+      "sha256": "642949336bdfa0a4d8bc2eae016e71924543a0738b53b41df40de9fe62b074ab"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00113.npz",
+      "bytes": 199492,
+      "sha256": "11c2af86a93a6dea3cd6987b781c0363a379649ebd62ec98f5f22eed9662726d"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00043.npz",
+      "bytes": 270271,
+      "sha256": "b58918d1f93edbb4cece04b0042b8474680e5f8da4faa7a0a16b4a6f0c289cf2"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00147.npz",
+      "bytes": 188373,
+      "sha256": "fccc221e3e14bdf86f698eee1debe1ced3794fc71134e1b8a8d6ce6dedfad064"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00182.npz",
+      "bytes": 224047,
+      "sha256": "2aabe4ff66a0f2e5716d84b3e2b9adc73097d2aa644f93a915d71d8d1e882b23"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00054.npz",
+      "bytes": 314902,
+      "sha256": "defe0ac529a93f580509b0dbbe7cc1e0760fedc0225ac6edfa97c4a4695c799b"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00012.npz",
+      "bytes": 177607,
+      "sha256": "59ac50cd8faeffeafe84e095f6fb61f02e43f1093049fed033f47fbfaef84e45"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00008.npz",
+      "bytes": 445603,
+      "sha256": "2fd9a1c1e16088d445e6f159053b16c67b6ae91c9b171a8a3a005c440ec60825"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00077.npz",
+      "bytes": 243614,
+      "sha256": "301152e81241e35a7a502f3999ed9a52a3d22ef79778403a4c15520ae0b953a3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00187.npz",
+      "bytes": 448034,
+      "sha256": "e440488771fbe4d1ed3ed7af67afbb6f7b2d899d0dbe9adef78a9513beb57933"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00179.npz",
+      "bytes": 208746,
+      "sha256": "822a9b8fc713c72e92366a0b7eccff37607a8f038b6658044f16504c81502607"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00075.npz",
+      "bytes": 204492,
+      "sha256": "27d3c57f075c9ed21bf30dad313bfb21fce05aebbadf38db934ac48594644c25"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00024.npz",
+      "bytes": 338918,
+      "sha256": "1fb2696bc721d2708d4207fb070bf6bb485da9b695dba00005487871f0a6de12"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00087.npz",
+      "bytes": 428029,
+      "sha256": "50d124db542707c325ad6baa72f2af4920b68d8d73de370d42d590561f4cdf23"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00194.npz",
+      "bytes": 230356,
+      "sha256": "049254eb40d78fb4c644017ee5ece716f270e24937cc3521292066e558e4fad1"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00157.npz",
+      "bytes": 624812,
+      "sha256": "319853f4e5c0ad9eed2c84c41cc0b10eb852958dc1b48df320702a703f2647ef"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00068.npz",
+      "bytes": 298219,
+      "sha256": "0e0411cfb267c87fe0f094b8954fa54ef0112898e478725a33b85b34d2b519b8"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00145.npz",
+      "bytes": 356179,
+      "sha256": "b8497deb5fecc9b9137c6a3887a4c84e0e2e81c96379ef505343be702438a72a"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00108.npz",
+      "bytes": 275062,
+      "sha256": "cec88a0433e92248b1be73e72e401dd693722cab443dbfacb06fa584b604d6ac"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00106.npz",
+      "bytes": 301786,
+      "sha256": "ce61575c7f37272f66fdc2ca5f4a2f805c0531cbcee5d658efa9dde6d481a521"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00062.npz",
+      "bytes": 403324,
+      "sha256": "20a89d0842bba88debb5dea8427155341f46d90bf8a47bbf62ba1c1dcb7186ca"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00085.npz",
+      "bytes": 355487,
+      "sha256": "755df3fd8dc2368c4b61e477114eff28dc72e9baaa7647dac96d8fd58ab01373"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00158.npz",
+      "bytes": 206488,
+      "sha256": "86de7e055d071488765447a97f254047f613e95f576932031e833ed5c885cea0"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00002.npz",
+      "bytes": 247373,
+      "sha256": "69cd4b77a2c3cf1519c3656cd180519107823650dd066126ddd1d49d43173ce2"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00049.npz",
+      "bytes": 563696,
+      "sha256": "d99af4fc1d5acdb947204f6f1938783357f0944e6b74f2e5d34c7f1e0c5019d9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00051.npz",
+      "bytes": 575730,
+      "sha256": "359cfa5f8f24e48ef075256b3100577491b686bdf129f0e4e9e5ebe2c4c749e8"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00008.npz",
+      "bytes": 261006,
+      "sha256": "0fae390c4220c90b553e94d83a59481687927243ae45b60e419675b915175e94"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00083.npz",
+      "bytes": 390963,
+      "sha256": "bdf394370e14201adb66d2eb597d6a001f8c3bb42d020f2b8daf15c40d4898a7"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00098.npz",
+      "bytes": 130531,
+      "sha256": "78273d020bbf31bde5be384d739e467e0310e3139a23eb2e8078ad36a93d0763"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00020.npz",
+      "bytes": 473111,
+      "sha256": "03632d72525c358b661e70a2ad8d9e0fd75706b239ad17abde74e3ab29c65b95"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00165.npz",
+      "bytes": 276226,
+      "sha256": "48b9735e8689c5221cd08ff5991edd0669321b34cba720501f19aa7a56075785"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00024.npz",
+      "bytes": 523979,
+      "sha256": "de4e09c10bca4b4ad739d1e602054dc0217e518870f7205df5e85400a8c15665"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00078.npz",
+      "bytes": 617931,
+      "sha256": "671a619692fbb2c00c0c7919800eefc6076b67da60b3c90203eb3890162047c3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00104.npz",
+      "bytes": 328094,
+      "sha256": "ddcf3e4ce8413a1fc9dabe813deebf7a17cd344e7c15242dc0415001e1d6aa14"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00099.npz",
+      "bytes": 461519,
+      "sha256": "9d70ac8f2767a92400c71b2dd8704fd00f0cc339a584d6268293c4f5b85a1c4c"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00035.npz",
+      "bytes": 203365,
+      "sha256": "91f097062d7853504d10e8a860ea1b1a31989e60b04cf85c82797264d517dbe7"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00113.npz",
+      "bytes": 284117,
+      "sha256": "4018ae38bc878bb88848a76a3e11c90ffc385582d1291d439452751100e913aa"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00088.npz",
+      "bytes": 277652,
+      "sha256": "768d6766915662388e47c50304b22548a7c154af50f3864bfc63e5102fec43a6"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00091.npz",
+      "bytes": 206744,
+      "sha256": "f05a8f5bc4a30ef4f1fda51182c3093f947ef48e22517035239935cd68359e57"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00103.npz",
+      "bytes": 351183,
+      "sha256": "569594aea864a8bbf1759a983c6bb4eec26526cf8b26a36f05132d163d1fb860"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00161.npz",
+      "bytes": 323153,
+      "sha256": "a1d7f00e0bd09bab88345e7f5cee802f51a4fcf27ad9b3bc90b306c525ac7eb9"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00018.npz",
+      "bytes": 209486,
+      "sha256": "4559eeef348bfceea5bc234e84dd8ea574125f425807759623af0d23187c534f"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00061.npz",
+      "bytes": 388305,
+      "sha256": "cab88bd4ce2fd4dabc8fa828bb011524b799a8186fb944c289cac4119625d73d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00068.npz",
+      "bytes": 143594,
+      "sha256": "bb2bae331fdcbd3b246fc883dbafb139cf7c07e51f79bcfb7c77c4ee7dcbd417"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00016.npz",
+      "bytes": 258819,
+      "sha256": "7813f987aac24742bcb815b2406ebad3c66935debb1c1d08ddc8ba23d51983c6"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00022.npz",
+      "bytes": 510012,
+      "sha256": "7241222f5438cbc2599bda768a2da3b260487016e359009d5d85349aae45b5c1"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00006.npz",
+      "bytes": 297249,
+      "sha256": "1f5a42d64efdb14cd4421e3f15ffa0f84d929c7004362288dfc81d67437a6c59"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00132.npz",
+      "bytes": 209662,
+      "sha256": "6c052b637b942a3e4f5c13ca2cd25312b6cdf0af49c11a3384d8aa1290f76bf2"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00090.npz",
+      "bytes": 249621,
+      "sha256": "1c06f6903d7233c551514b87b945bc4d0f06202ae5fa649275e768d1b09b5639"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00034.npz",
+      "bytes": 567241,
+      "sha256": "135b77d466a13d4015771b2f9827d6f96247c85588d0ec267bb4a946e0ef6fb1"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00190.npz",
+      "bytes": 182023,
+      "sha256": "f4cb68be93f58ccb96d98b8c13f9e8b1b6142c1e7ee61ad075b715a5f98c1bb3"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00121.npz",
+      "bytes": 460222,
+      "sha256": "a8485170a21693fcd2ae8a7c69ae93eaab5de955da19cae9083337f17051fa8d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00125.npz",
+      "bytes": 567788,
+      "sha256": "dd8a1de673ca9a362beb8e01831400ad3acafd978df13b54824b3054dad741e8"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00011.npz",
+      "bytes": 247641,
+      "sha256": "1220ebd1df6db868c514ac476504ba21173e2a5878af106f044cf670aaf17e68"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00084.npz",
+      "bytes": 107278,
+      "sha256": "1aff7ff699771a5a29edcf90748ffc977f4388381d498fea6e6c1a9d96cd5084"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00142.npz",
+      "bytes": 312295,
+      "sha256": "d9a531794d73b06ab0c096bb0d2473b17e906f4cd4e331f1a78e5191a408e298"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00016.npz",
+      "bytes": 369117,
+      "sha256": "8ecaf334ce6c6cc1454531185bf6d6dbf3ca97274295afedbc7e72a03745b4cc"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00092.npz",
+      "bytes": 257024,
+      "sha256": "17fd62344b6abeaa516da2beda2aa959c85992cb20333d1353cacca1094ee278"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00081.npz",
+      "bytes": 475824,
+      "sha256": "220e0e9c1b8e6cded956bda841adbcfd86adb4b3c7c90233260d836a1bcc37d0"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00182.npz",
+      "bytes": 357722,
+      "sha256": "010572f198a289ab23c9c1df1acba8fcb37712fd07d4d17c6a844bc551abd388"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00045.npz",
+      "bytes": 180036,
+      "sha256": "c2150b77104c114053c023b2a11b1cbdc13ec96ac3f528fe6de1f1d24a12628d"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00156.npz",
+      "bytes": 362392,
+      "sha256": "04790c68c693817461d452fd1c564abfe14f3f7cd208cf0df4f2e035d2ff393a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00056.npz",
+      "bytes": 198007,
+      "sha256": "cd58b7518ec51a76cdfdc898d71050efe40749d15cf532770819028ab73008db"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00134.npz",
+      "bytes": 259639,
+      "sha256": "c9304b0395ff0a5deed3e2c55fb44399ff875ee369e2edb479f3f7ee927d69c8"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00071.npz",
+      "bytes": 190831,
+      "sha256": "2bc87f7c007b53d0fd2ee34fca2d1b60beffc927079c4088ce1c8f4a8f88a1e4"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00006.npz",
+      "bytes": 370280,
+      "sha256": "77bdbca18a36f2ee87458cdb75ebfce5797c7b4824c8c9df0e03edcfa9427219"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00017.npz",
+      "bytes": 180621,
+      "sha256": "18a66756ccf21359a72f0432dcc15059e4b87fad77f050ec04e11221687175f7"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00025.npz",
+      "bytes": 404131,
+      "sha256": "805a35e921e8dd06c07c5e9997ef3034bb5515bc47029d4ce7df655f874d30a9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00084.npz",
+      "bytes": 411841,
+      "sha256": "7d506f7bc21fe1fe2f8b49a02a53056c66125c6b1e7892273529e0c90ca5b628"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00098.npz",
+      "bytes": 317477,
+      "sha256": "5f3abddedf4de6bac37142aa8f14511be83072bc154e76f304e25a5e9aa09fb8"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00003.npz",
+      "bytes": 606693,
+      "sha256": "4e23a465b899ae94bb6d98152fd4278517679a61dd07e625dbbaa9f918edcb0f"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00029.npz",
+      "bytes": 282812,
+      "sha256": "c809cdb217cebe6e56a5f8a1fc954dbd3b521d8d8b7fe558c502757348286b0a"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00019.npz",
+      "bytes": 551759,
+      "sha256": "e8b593d907fe870ee3a9162ce5204eea58e04d0ed85ae8a4cb35a34f55c18faf"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00092.npz",
+      "bytes": 235494,
+      "sha256": "872cea084dd722ded2097c9d69270f57a5fdd22a1987f942a32ebf172e5e2f0b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00032.npz",
+      "bytes": 186092,
+      "sha256": "8553fb24f58295009f819f03dcc5626ec757967fc6518d506f16131a01ed49c8"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00178.npz",
+      "bytes": 205249,
+      "sha256": "65d4cf6b0da43d2d164587206b46209166b2cf719aa77189d681fbecb0410e97"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00117.npz",
+      "bytes": 256393,
+      "sha256": "ffbb578b0259f404ae2316e3088a1aa50e274c931e37d1011fddaa6950974461"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00015.npz",
+      "bytes": 153585,
+      "sha256": "d16c241fa1a7f02bc9731520c3a528c17ab44ec327f89f8ef9d295c5e76e73de"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00042.npz",
+      "bytes": 203121,
+      "sha256": "0de78b3b45580150cfc66e7d8f41e591329a719dbecd95bae1159533ceca4415"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00013.npz",
+      "bytes": 183858,
+      "sha256": "e753b08322a5dd60584db942042d42ad1136f579acc84d1ead05d85cd21a7e8d"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00100.npz",
+      "bytes": 220279,
+      "sha256": "91625b025599abbee9fac581cb6240d2b6d54eec2f8e9d4c15550362f1c829c0"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00171.npz",
+      "bytes": 399626,
+      "sha256": "cc7c9811419824777d33d0350ce2632db59291238b946e331d5dcc878ea56006"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00060.npz",
+      "bytes": 241672,
+      "sha256": "217e7d3835a34536514e3baa5c6c9a969976bc4e498c0e0d26994101b7fb5e87"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00123.npz",
+      "bytes": 529535,
+      "sha256": "e5909e76b1ebd0b9fd73b57324ba9dcb8559dfd94997ce039aeca66a1c74ff90"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00064.npz",
+      "bytes": 259015,
+      "sha256": "7e006a345ba9ee523aea34254e5c3666bc89666c29dd3f806292c7d5efbbfc95"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00041.npz",
+      "bytes": 296649,
+      "sha256": "ca50db4c7f131a21303b15d5adaa0baea4d0ed87004e5b02e7eaa5ccb66a5312"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00023.npz",
+      "bytes": 622446,
+      "sha256": "b869aa819e9f49a87a701db00e5387e5b44976ea786eb728a3bcf406469c1ac3"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00141.npz",
+      "bytes": 262201,
+      "sha256": "960ec16b9c8fdb41ca2aad35cacf3872f2c6415df0de793b1a5af2ceb90f2918"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00077.npz",
+      "bytes": 212557,
+      "sha256": "0277e8d7a6ddd99286cd10edae31125015bb6920c1f40102f29b33e8b3af0e4a"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00010.npz",
+      "bytes": 230864,
+      "sha256": "4935d115756795f7e0b852459d28025235aa8c53e52b579101eda03bde1463d1"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00110.npz",
+      "bytes": 422680,
+      "sha256": "32460125e4d3ccb821bf72073b5fe3b2e6b4a568c0464fe7b2a9162ce4aed2f0"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00152.npz",
+      "bytes": 335538,
+      "sha256": "bcf871332da6ced878a11dd761be6f0ed4e61db7c77d0d8c3219a436759bbf48"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00024.npz",
+      "bytes": 333507,
+      "sha256": "50ce6204e6ff0d5c98818e64a3716777e1d7f17933ee24e2804543cc784ea2f3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00192.npz",
+      "bytes": 272679,
+      "sha256": "d824894bcea9aa566d1c35fb06b55114bbd9c4ff972d764ea61eafff107dd81d"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00116.npz",
+      "bytes": 238714,
+      "sha256": "97714a5f095e24f2314180f0e73ee5ce57869ded3de5a7a6fc0ba2837789f8de"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00065.npz",
+      "bytes": 452627,
+      "sha256": "4dbd5e3ac9e4068c3393cbf2f1f1676bf1f274dd85afb8341bb610f9658bed11"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00160.npz",
+      "bytes": 344602,
+      "sha256": "1466d27d37a1df7a0120afa0cbc2ead1f4a08d0d89ac9f83a7fb7e3cbe6526d1"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00048.npz",
+      "bytes": 200921,
+      "sha256": "fa01556a5235f0443d10a00c70b64dea763a8c027534a60ce5fb9ea2075dad92"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00161.npz",
+      "bytes": 270862,
+      "sha256": "f948ec109fbbcbe60c4050533ceaa9c344b1b07a689be51113dbd110284b047e"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00025.npz",
+      "bytes": 271187,
+      "sha256": "99232bef95fd54b599dc119f2255a4e29f6c232dd000fbac203431852fbd7573"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00060.npz",
+      "bytes": 207496,
+      "sha256": "603ddd4a9b576c2c6e43fa1cb751127496e8795e8ac2409691e86ce3f5f134cc"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00079.npz",
+      "bytes": 272604,
+      "sha256": "63f24fdba229a6418d3e64fc375472c3ab9f0da2a7d669d5fe278b675c3ebf74"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00027.npz",
+      "bytes": 192792,
+      "sha256": "2183e5e0e62cbab24c1e6dd97330353883c8394c75d91d9a728875548e71d018"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00001.npz",
+      "bytes": 474707,
+      "sha256": "afabdd6244758c8315c81264f92325a914f2ce45b60e910a0480faa59e95b6e9"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00130.npz",
+      "bytes": 218120,
+      "sha256": "148230d17fad466623db56650f3ee4ea6f8508ba84c29f9d4089058538a7125f"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00030.npz",
+      "bytes": 207139,
+      "sha256": "656d2f8c57d067321957c9ef1eee2783f358a6f808e584f9cf701b34924088c3"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00109.npz",
+      "bytes": 318017,
+      "sha256": "34b68ce8071a220b59e9dff1aae7bf9100b9275801f0c3e950cab5611524f880"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00046.npz",
+      "bytes": 241970,
+      "sha256": "db4dad8e0625eb996f643942d43e5d94b6e28511447236d7e9be6e27607e2fb2"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00005.npz",
+      "bytes": 530932,
+      "sha256": "2d354b7dcbe8d8bf3ea85ae3e54d6aeb4c0c02138cbbbce91b89b2028bfc5a33"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00169.npz",
+      "bytes": 406514,
+      "sha256": "2cdd89feae4b2e0bc3409a0cfac91634ad36fab8ae3499ee4ec6455bee83ea57"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00020.npz",
+      "bytes": 303428,
+      "sha256": "28884c315c0e97e8c9d579d0f27d6a1814f5d4b84a2e94b0c205270201796a2a"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00174.npz",
+      "bytes": 273626,
+      "sha256": "b7cd56ea79544d7df3f4999ab45e71763672b6ad5117f4f0843e25e8428a5c8c"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00173.npz",
+      "bytes": 324689,
+      "sha256": "df79df5466f0385a1c91b4695d70b73bef2e3cf2bcabc0f724d95b135086801f"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00128.npz",
+      "bytes": 133943,
+      "sha256": "5a84b9f9c0819492b9d844440327bfd734b768d2fa6a90a00dfde81d5ebfe167"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00049.npz",
+      "bytes": 180473,
+      "sha256": "968fe4aaef5e8205ff004a2fd5c4bdf7304d37c480cd50946fa99354b7c5f787"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00091.npz",
+      "bytes": 237503,
+      "sha256": "6959519df0580a3bb78b68ef05b6ff44261ed72597d8cea018037f72a57cb5af"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00059.npz",
+      "bytes": 215465,
+      "sha256": "461f1c6d6f43ad46268b6b1411488afcb93685ef373ccde939fea1329d332359"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00117.npz",
+      "bytes": 195242,
+      "sha256": "cd1141b72122eb709554a3254c63c8efec8a46fabf6002927513e03e73f20a15"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00022.npz",
+      "bytes": 418525,
+      "sha256": "aa0810041dcb3a682e1b8e383cb0615e2cb22567cfe3a98d76ae829f85b339fa"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00011.npz",
+      "bytes": 310672,
+      "sha256": "a91cc468353c1237e3dc6fb032723afd730adcb4fd40066798ee71313438edc7"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00172.npz",
+      "bytes": 344553,
+      "sha256": "0684edd0bc49b26ba3e640a650e9f4353c75e913d652be58cc45674e3fb0ecc5"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00101.npz",
+      "bytes": 256879,
+      "sha256": "ec803f0cb727a7ff4e63436dc280122fac9e57cd982f7e1fd526f18b8e332709"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00047.npz",
+      "bytes": 638785,
+      "sha256": "9eb28c7e39b92d42fb7360fb972f73c592d85072b7105639259f7c15e3000d15"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00055.npz",
+      "bytes": 273403,
+      "sha256": "c2b79734707d19f867e15d07579f839432a0520ef575d03bd5f1091c9e6328bb"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00102.npz",
+      "bytes": 412792,
+      "sha256": "f4ad08cad58c4116965a644cca16296847d37da900b880f84b93e2ffc74787c2"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00008.npz",
+      "bytes": 474565,
+      "sha256": "43ec77ca01e651b7191f913086becbd3d67e82f2df070e5f1aff0aef6f94f7d4"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00044.npz",
+      "bytes": 295235,
+      "sha256": "b062b779ba28850d345cae6d876bde5f53d60a9573f833aa65a68496149b9ee4"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00055.npz",
+      "bytes": 255553,
+      "sha256": "dd77bf7be44f356198d718d31877d3b25a31a1e0032a5592c01f8c1f63058f83"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00028.npz",
+      "bytes": 231102,
+      "sha256": "4c2ae0054bdbdc7c4afcc899302905bfb1c93deeb608160ae04c9fcadf6cea9c"
+    },
+    {
+      "path": "assets/motions/BM_Prone_Lying_00122.npz",
+      "bytes": 594415,
+      "sha256": "7b182aaf34566844ab71c0e4e799fa298edf7cc149eb3e49f1f43e73b1a8054b"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00018.npz",
+      "bytes": 251214,
+      "sha256": "0341dc21c6482fad2da1ba818f4dd3aa6133cc394322338e3c557105cca8a6ad"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00026.npz",
+      "bytes": 338064,
+      "sha256": "0046ed29777eb99fb2ada36c8573f40f9b3a5adb4267ea31ab913fe4cbf2f3fa"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00065.npz",
+      "bytes": 308362,
+      "sha256": "38a1323b2190679e68c9cb30ba6fd6184c7e1dd8a7994c987d713b571ca56d17"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00115.npz",
+      "bytes": 394045,
+      "sha256": "f0d038cfbdfa4e15c1a7a797e3b07d787c1fb4fb871c4ba0b79259c93f428ade"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00133.npz",
+      "bytes": 293548,
+      "sha256": "2c510ad5c4a8a80be6a040d172f58d98e64fda4b024ef03e39215d3d3e54fe58"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00064.npz",
+      "bytes": 866549,
+      "sha256": "3ece152c00c0e69fe6155924398b1c6a750e8b6b9b266e1e2843224ea4d98c73"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00173.npz",
+      "bytes": 458557,
+      "sha256": "7c6247aa8419933acfde316295dd8b5bef9f9f1c1c4594f70f07a3f815206c8c"
+    },
+    {
+      "path": "assets/motions/BM_Get_Up_00002.npz",
+      "bytes": 447009,
+      "sha256": "1896c2ae1a553ded1b386d0842bce3e4762f0e54d59a7fcf5a7393bd99785d47"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00129.npz",
+      "bytes": 505118,
+      "sha256": "7738e819968daa8f425746ddd11b4b46f2096ca47f9ba240f1789157bb119234"
+    },
+    {
+      "path": "assets/motions/BM_Sit_to_Stand_00056.npz",
+      "bytes": 280351,
+      "sha256": "1da350e24608fb7e584d644f58e50174d586349215befc70da5686da4b8cab71"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00042.npz",
+      "bytes": 226611,
+      "sha256": "7bb5a680fb08a9b65ef7cd2b07f9b81b756793be817b58774055119375d7e702"
+    },
+    {
+      "path": "assets/motions/BM_Multiple_Limb_Combinations_00027.npz",
+      "bytes": 181440,
+      "sha256": "c2dfe40d5e5c85f9da6580706b4bbfb3f5b09d0bf30615759870f15cb7cb5d2a"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00193.npz",
+      "bytes": 203500,
+      "sha256": "8b814efcafffdd85d55f5f5137f8712222c334def15f1055cbb674cf163f825f"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00014.npz",
+      "bytes": 212413,
+      "sha256": "9ad5f9626fcc25b66f210548a7070676aa4ac509a7ba54499baffb727347462f"
+    },
+    {
+      "path": "assets/motions/BM_Lying_Flat_to_Sitting_to_Standing_00004.npz",
+      "bytes": 545038,
+      "sha256": "031de925856d3575ffae06e328e42c66c30c78fdcc2482c434c1df48acc48c88"
+    },
+    {
+      "path": "assets/motions/BM_Side_Reclining_to_Sitting_to_Standing_00135.npz",
+      "bytes": 258843,
+      "sha256": "0a641dbd7f22430f77f40280fefab242da03d9c53ce6911b42a2e60fd98c91e0"
+    },
+    {
+      "path": "assets/motions/BM_Side_Lying_to_Sitting_to_Standing_00058.npz",
+      "bytes": 366329,
+      "sha256": "dd6605d374ad274c04e950922171c6a9a37e0c9bc9d119cb0a371bd96bedb142"
+    },
+    {
+      "path": "assets/motions/BM_Stand_Up_00020.npz",
+      "bytes": 653311,
+      "sha256": "3c430349f5fd9da63e5955f8280829f12ec205a45769a73d2200e3b16a8115fd"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00186.npz",
+      "bytes": 375882,
+      "sha256": "8ac87971f5082e7229fceee441982873ae8c4d8282306a95fcc8e9822382e481"
+    },
+    {
+      "path": "assets/motions/BM_Side_Prone_Lying_00163.npz",
+      "bytes": 183137,
+      "sha256": "44b0841f7cf75ad76e8ce48db862deb427f8d2101ac912baf117e5e9127c42f0"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_PITCH_R.stl",
+      "bytes": 589484,
+      "sha256": "4da9d3be7cc4e3a6e3719a6498bd3fb01d8232471c166b220756fc36ae33b115"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_YAW_R.stl",
+      "bytes": 518334,
+      "sha256": "3369ba740438ef38da5316841f10119539911008f27e1023e3f78ab1b6f8ef64"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ANKLE_ROLL_R.stl",
+      "bytes": 412084,
+      "sha256": "87df3e95d7a838d13995d476f94860952239a2c18aeb2b36cc03566a80bf81a7"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_KNEE_PITCH_L.stl",
+      "bytes": 985484,
+      "sha256": "cb625f187b1081ae74b4eee6275442c291cc19ed0e85ac3e9d2bc5620970b3a4"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_YAW_L.stl",
+      "bytes": 527584,
+      "sha256": "67483710d913a0ca45a861b9a49d80a8bfdb2e0f69996ba54488da602ea56eff"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_YAW_R.stl",
+      "bytes": 527584,
+      "sha256": "49ad4b56275bf84c7263ab46cc1bb1d534c7d430051c1b4362462fc7e92153a0"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ANKLE_ROLL_L.stl",
+      "bytes": 412084,
+      "sha256": "1f280d6984268c356d8164bb468989fe67fb76555ba559aa527239db190d24f2"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HEAD_PITCH.stl",
+      "bytes": 39484,
+      "sha256": "bea65047b79b22ee993ca8b45f5e3db1eb8449bed54210c0f7241181a8a01770"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ELBOW_YAW_L.stl",
+      "bytes": 1569334,
+      "sha256": "9b66799de32ddba6cd17e63d148005dc5a40a9a1dbe947e0954616526c95d820"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ANKLE_PITCH_R.stl",
+      "bytes": 114484,
+      "sha256": "8b5e428456e0e393cfe7a2881da1eb4fa4d817db081675af2c5e69cdc35ab936"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ELBOW_YAW_R.stl",
+      "bytes": 1569334,
+      "sha256": "72d78fcff9a2a31b2fcde13ccaa8a5e6bb68aba489ff70786042f535adf87e9f"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_ROLL_R.stl",
+      "bytes": 199834,
+      "sha256": "92a7dcd346c533bb86b8cf2ef8cf3ef2a6a9b76ef53d0ece80d3762b5f821b85"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_BASE.stl",
+      "bytes": 1103434,
+      "sha256": "35a3b63fb5fc13bec8cf8c2a7eaca2094a0bd2ea371576bd59e7f28bda14cc59"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_YAW_L.stl",
+      "bytes": 518334,
+      "sha256": "d6abea5d2766bbc2d78a8e5a194eef36dbe8ec589e3e7bb7ac95088fe4206fd9"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ELBOW_PITCH_R.stl",
+      "bytes": 485434,
+      "sha256": "4dcca36de969edec5d0f002a42cbbd8c1afaef5fd8a67c2bf66d15c8ace70fba"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_TORSO_YAW.stl",
+      "bytes": 2920984,
+      "sha256": "24b93acd278a3a5b633b171011fcbece37c58784f333348552c28a554cdd5096"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_PITCH_R.stl",
+      "bytes": 222734,
+      "sha256": "fac780fcc96256354199af54e708a16d07ad7a1b1cf3e0b06dc04ee75b74ff5d"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ANKLE_PITCH_L.stl",
+      "bytes": 114384,
+      "sha256": "6030cf9e650028a855d50277c3ae38b1a82b8ad00853d09cff16a2163e0d01d6"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_KNEE_PITCH_R.stl",
+      "bytes": 985484,
+      "sha256": "3f7bc757c805b1642c908eb535161812e612bbafa52eadae1cf6e44ed0301b56"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_PITCH_L.stl",
+      "bytes": 589484,
+      "sha256": "42b90119146252bd757579506af7db6aba8105437cc232986a02428a63403afc"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_PITCH_L.stl",
+      "bytes": 222734,
+      "sha256": "c35edab61b9246f2ce9d75ad6ec942208a2d23f2db252699890e3a3fb84b0f42"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_ROLL_R.stl",
+      "bytes": 373634,
+      "sha256": "0c11ad7fc94111c4c7cdfc0b5f6d07b41ea10c29d0d295ff861a7113e6c17c1f"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_ELBOW_PITCH_L.stl",
+      "bytes": 485434,
+      "sha256": "f258dc95d8494b42789d3f25f3aa4f5a6ea34515a5c02d7075b71156ebe86b10"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HEAD_YAW.stl",
+      "bytes": 1710884,
+      "sha256": "f898c992cd66e138ecc8aff2d5e60ba54ad36770443fca194760ffdf57764a6a"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_HIP_ROLL_L.stl",
+      "bytes": 199834,
+      "sha256": "9b70c2544348119dfa01304217215fa7f6ca116fa14350979c913f9bd96f8743"
+    },
+    {
+      "path": "assets/t800/meshes/LINK_SHOULDER_ROLL_L.stl",
+      "bytes": 373634,
+      "sha256": "0142a47a144f3a07fdeb8e32320b5889e5bc2e49603c9bf52e1175444f261a90"
+    },
+    {
+      "path": "data/fallen_resets.npz",
+      "bytes": 126652,
+      "sha256": "0aa7e2a1324bc1933e84a79e35aa0ac029c71cd5ef9969d466de7ae98c2df143"
+    }
+  ]
+}

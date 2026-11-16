@@ -1,0 +1,13 @@
+# Versions of the working runtime. Install a suitable CUDA torch build first.
+mjlab==1.2.0
+mujoco==3.12.0
+mujoco-warp==3.8.1
+warp-lang==1.12.0
+numpy==2.4.6
+scipy==1.17.0
+tensordict==0.14.0
+tensorboard==2.21.0
+GitPython==3.1.61
+imageio==2.37.4
+imageio-ffmpeg==0.6.0
+Pillow==12.3.0

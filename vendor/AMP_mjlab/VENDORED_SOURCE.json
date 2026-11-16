@@ -1,0 +1,10 @@
+{
+  "upstream": "https://github.com/ccrpRepo/AMP_mjlab",
+  "commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc",
+  "excluded": [
+    "motion_data_csv/",
+    "src/assets/motions/",
+    "logs.png"
+  ],
+  "note": "Tracked source snapshot; original file copyright headers preserved. T800 motions supplied separately in assets/motions."
+}

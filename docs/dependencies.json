@@ -1,0 +1,28 @@
+{
+  "amp_mjlab": {
+    "path": "/home/ye/BeyondMimicExp/AMP_mjlab",
+    "commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc"
+  },
+  "HoST": {
+    "path": "vendor/HoST",
+    "commit": "70bb580949a336a920833700e4b5dc3bf7fe87ce"
+  },
+  "engineai_rl_lab": {
+    "path": "vendor/engineai_rl_lab",
+    "commit": "c53f7ec614e34f1ea514cefb935894082f3d4c2a"
+  },
+  "runtime": {
+    "torch": "2.13.0",
+    "mjlab": "1.2.0",
+    "mujoco": "3.12.0",
+    "mujoco-warp": "3.8.1",
+    "warp-lang": "1.12.0"
+  },
+  "upstream_files": {
+    "src/tasks/amp_loco/amp_env_cfg.py": "c8347af117d2f97dcc063a4ab061493956f5010c14571f85ab5bf624624610cb",
+    "src/tasks/amp_loco/mdp/observations.py": "15ad37697581cf3033929b0814fa324e5f7466da59b9a4981f97b934405df629",
+    "src/tasks/amp_loco/mdp/rewards.py": "76b924201f89e407d256b5b507e575c804d2eadc026bc42c70cf96857f024457",
+    "rsl_rl/algorithms/amp_ppo.py": "df53e511af2590a4d4c7c38417f4ba7303ca42950e723173231b7603ef2eccef",
+    "rsl_rl/runners/amp_on_policy_runner.py": "31e44b32920d3239b255f8b6475767255b903c6fdb685e7ebbde0319c537a27f"
+  }
+}

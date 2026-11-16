@@ -1,0 +1,6 @@
+{
+  "source_archive_sha256": "060677d1fee54fbc9954cde7921bdea447495317cdb4b7a87be05d83522f50bf",
+  "gmr_xml_sha256": "47ffeed64dc44fe7744d4a1e1d0c2f60a7ebd182d6da62ea4424d9686a93bf91",
+  "pd_source": "vendor/engineai_rl_lab/source/engineai_rl_lab/engineai_rl_lab/tasks/locomotion/amp/robots/t800.py",
+  "pd_source_sha256": "113c9e9d6fc3539f0f39d32bfcdd832d23bc920a0f042ede364b524a62dce181"
+}

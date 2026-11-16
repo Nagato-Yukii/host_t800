@@ -1,0 +1,202 @@
+{
+  "J00_HIP_PITCH_L": {
+    "kp": 180.0,
+    "kd": 5.0,
+    "armature": 0.2427264,
+    "effort": 415.0,
+    "velocity": 25.96,
+    "default": -0.06
+  },
+  "J01_HIP_ROLL_L": {
+    "kp": 100.0,
+    "kd": 3.0,
+    "armature": 0.14110848,
+    "effort": 370.0,
+    "velocity": 25.31,
+    "default": 0.0
+  },
+  "J02_HIP_YAW_L": {
+    "kp": 100.0,
+    "kd": 3.0,
+    "armature": 0.0448737,
+    "effort": 222.0,
+    "velocity": 23.19,
+    "default": 0.0
+  },
+  "J03_KNEE_PITCH_L": {
+    "kp": 180.0,
+    "kd": 5.0,
+    "armature": 0.2427264,
+    "effort": 415.0,
+    "velocity": 25.96,
+    "default": 0.12
+  },
+  "J04_ANKLE_PITCH_L": {
+    "kp": 40.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": -0.06
+  },
+  "J05_ANKLE_ROLL_L": {
+    "kp": 40.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J06_HIP_PITCH_R": {
+    "kp": 180.0,
+    "kd": 5.0,
+    "armature": 0.2427264,
+    "effort": 415.0,
+    "velocity": 25.96,
+    "default": -0.06
+  },
+  "J07_HIP_ROLL_R": {
+    "kp": 100.0,
+    "kd": 3.0,
+    "armature": 0.14110848,
+    "effort": 370.0,
+    "velocity": 25.31,
+    "default": 0.0
+  },
+  "J08_HIP_YAW_R": {
+    "kp": 100.0,
+    "kd": 3.0,
+    "armature": 0.0448737,
+    "effort": 222.0,
+    "velocity": 23.19,
+    "default": 0.0
+  },
+  "J09_KNEE_PITCH_R": {
+    "kp": 180.0,
+    "kd": 5.0,
+    "armature": 0.2427264,
+    "effort": 415.0,
+    "velocity": 25.96,
+    "default": 0.12
+  },
+  "J10_ANKLE_PITCH_R": {
+    "kp": 40.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": -0.06
+  },
+  "J11_ANKLE_ROLL_R": {
+    "kp": 40.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J12_TORSO_YAW": {
+    "kp": 100.0,
+    "kd": 5.0,
+    "armature": 0.0448737,
+    "effort": 222.0,
+    "velocity": 23.19,
+    "default": 0.0
+  },
+  "J13_SHOULDER_PITCH_L": {
+    "kp": 60.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J14_SHOULDER_ROLL_L": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.15
+  },
+  "J15_SHOULDER_YAW_L": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J16_ELBOW_PITCH_L": {
+    "kp": 60.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": -0.25
+  },
+  "J17_ELBOW_YAW_L": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.00671625,
+    "effort": 52.0,
+    "velocity": 35.2,
+    "default": 0.0
+  },
+  "J20_SHOULDER_PITCH_R": {
+    "kp": 60.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J21_SHOULDER_ROLL_R": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": -0.15
+  },
+  "J22_SHOULDER_YAW_R": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": 0.0
+  },
+  "J23_ELBOW_PITCH_R": {
+    "kp": 60.0,
+    "kd": 0.3,
+    "armature": 0.0354625,
+    "effort": 160.0,
+    "velocity": 33.51,
+    "default": -0.25
+  },
+  "J24_ELBOW_YAW_R": {
+    "kp": 50.0,
+    "kd": 0.3,
+    "armature": 0.00671625,
+    "effort": 52.0,
+    "velocity": 35.2,
+    "default": 0.0
+  },
+  "J27_HEAD_PITCH": {
+    "kp": 100.0,
+    "kd": 1.0,
+    "armature": 0.00671625,
+    "effort": 52.0,
+    "velocity": 35.2,
+    "default": 0.0
+  },
+  "J28_HEAD_YAW": {
+    "kp": 100.0,
+    "kd": 1.0,
+    "armature": 0.00671625,
+    "effort": 52.0,
+    "velocity": 35.2,
+    "default": 0.0
+  }
+}

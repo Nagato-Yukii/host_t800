@@ -1,0 +1,61 @@
+# Python / build / environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Training outputs, checkpoints and experiment artifacts
+/logs/
+/outputs/
+/runs/
+/wandb/
+*.log
+*.pt
+*.pth
+*.ckpt
+*.onnx
+events.out.tfevents.*
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# Large local datasets / generated motion and reset arrays
+/assets/motions/
+/assets/t800/meshes/
+/data/*.zip
+/data/*.npz
+/data/*.npy
+*.tar
+*.tar.gz
+*.tgz
+
+# External checkouts, restored locally as documented
+/vendor/
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+/local_config.*
+
+# Editor / OS temporary files
+.vscode/
+.idea/
+.DS_Store
+*~
+*.swp
+*.swo

@@ -1,0 +1,3271 @@
+[
+  {
+    "file": "BM_Stand_Up_00001.npz",
+    "frames": 457,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00002.npz",
+    "frames": 356,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00003.npz",
+    "frames": 261,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00004.npz",
+    "frames": 426,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00005.npz",
+    "frames": 372,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00006.npz",
+    "frames": 257,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00007.npz",
+    "frames": 431,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00008.npz",
+    "frames": 312,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00009.npz",
+    "frames": 397,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00010.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00011.npz",
+    "frames": 161,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00012.npz",
+    "frames": 124,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00013.npz",
+    "frames": 127,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00014.npz",
+    "frames": 147,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00015.npz",
+    "frames": 147,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00016.npz",
+    "frames": 137,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00017.npz",
+    "frames": 132,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00018.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00019.npz",
+    "frames": 401,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00020.npz",
+    "frames": 457,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00021.npz",
+    "frames": 351,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00022.npz",
+    "frames": 356,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00023.npz",
+    "frames": 432,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00024.npz",
+    "frames": 364,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00025.npz",
+    "frames": 339,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00026.npz",
+    "frames": 174,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00027.npz",
+    "frames": 132,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00028.npz",
+    "frames": 159,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00029.npz",
+    "frames": 196,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00030.npz",
+    "frames": 146,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00031.npz",
+    "frames": 179,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Stand_Up_00032.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Get_Up_00001.npz",
+    "frames": 321,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00002.npz",
+    "frames": 304,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00003.npz",
+    "frames": 417,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00004.npz",
+    "frames": 351,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00005.npz",
+    "frames": 357,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00006.npz",
+    "frames": 284,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00007.npz",
+    "frames": 311,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00008.npz",
+    "frames": 332,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00009.npz",
+    "frames": 349,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00010.npz",
+    "frames": 126,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00011.npz",
+    "frames": 126,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00012.npz",
+    "frames": 112,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00013.npz",
+    "frames": 119,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00014.npz",
+    "frames": 112,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00015.npz",
+    "frames": 144,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00016.npz",
+    "frames": 124,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00017.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00018.npz",
+    "frames": 199,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00019.npz",
+    "frames": 269,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00020.npz",
+    "frames": 301,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00021.npz",
+    "frames": 287,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00022.npz",
+    "frames": 282,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00023.npz",
+    "frames": 327,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00024.npz",
+    "frames": 301,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00025.npz",
+    "frames": 272,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00026.npz",
+    "frames": 96,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00027.npz",
+    "frames": 134,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00028.npz",
+    "frames": 119,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00029.npz",
+    "frames": 156,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00030.npz",
+    "frames": 134,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Get_Up_00031.npz",
+    "frames": 144,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Get_Up_00032.npz",
+    "frames": 115,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00001.npz",
+    "frames": 171,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00002.npz",
+    "frames": 174,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00003.npz",
+    "frames": 129,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00004.npz",
+    "frames": 161,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00005.npz",
+    "frames": 171,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00006.npz",
+    "frames": 204,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00007.npz",
+    "frames": 164,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00008.npz",
+    "frames": 181,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00009.npz",
+    "frames": 214,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00010.npz",
+    "frames": 194,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00011.npz",
+    "frames": 167,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00012.npz",
+    "frames": 189,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00013.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00014.npz",
+    "frames": 146,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00015.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00016.npz",
+    "frames": 179,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00017.npz",
+    "frames": 179,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00018.npz",
+    "frames": 172,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00019.npz",
+    "frames": 205,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00020.npz",
+    "frames": 207,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00021.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00022.npz",
+    "frames": 197,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00023.npz",
+    "frames": 159,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00024.npz",
+    "frames": 236,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00025.npz",
+    "frames": 184,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00026.npz",
+    "frames": 234,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00027.npz",
+    "frames": 302,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00028.npz",
+    "frames": 119,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00029.npz",
+    "frames": 136,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00030.npz",
+    "frames": 111,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00031.npz",
+    "frames": 142,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00032.npz",
+    "frames": 127,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00033.npz",
+    "frames": 169,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00034.npz",
+    "frames": 117,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00035.npz",
+    "frames": 139,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00036.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00037.npz",
+    "frames": 276,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00038.npz",
+    "frames": 134,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00039.npz",
+    "frames": 227,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00040.npz",
+    "frames": 267,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00041.npz",
+    "frames": 202,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00042.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00043.npz",
+    "frames": 184,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00044.npz",
+    "frames": 126,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00045.npz",
+    "frames": 124,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00046.npz",
+    "frames": 132,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00047.npz",
+    "frames": 159,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Sit_to_Stand_00048.npz",
+    "frames": 137,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00049.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00050.npz",
+    "frames": 207,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00051.npz",
+    "frames": 236,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00052.npz",
+    "frames": 182,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00053.npz",
+    "frames": 244,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00054.npz",
+    "frames": 204,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00055.npz",
+    "frames": 176,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00056.npz",
+    "frames": 192,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00057.npz",
+    "frames": 131,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00058.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Sit_to_Stand_00059.npz",
+    "frames": 107,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00060.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00061.npz",
+    "frames": 111,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00062.npz",
+    "frames": 117,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00063.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Sit_to_Stand_00064.npz",
+    "frames": 176,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00065.npz",
+    "frames": 211,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00066.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00067.npz",
+    "frames": 192,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00068.npz",
+    "frames": 205,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00069.npz",
+    "frames": 167,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00070.npz",
+    "frames": 194,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00071.npz",
+    "frames": 147,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00072.npz",
+    "frames": 132,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00073.npz",
+    "frames": 179,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00074.npz",
+    "frames": 172,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00075.npz",
+    "frames": 139,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00076.npz",
+    "frames": 162,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00077.npz",
+    "frames": 164,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00078.npz",
+    "frames": 221,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00079.npz",
+    "frames": 186,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00080.npz",
+    "frames": 201,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00081.npz",
+    "frames": 261,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00082.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00083.npz",
+    "frames": 214,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00084.npz",
+    "frames": 219,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00085.npz",
+    "frames": 124,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00086.npz",
+    "frames": 111,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00087.npz",
+    "frames": 117,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00088.npz",
+    "frames": 146,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Sit_to_Stand_00089.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00090.npz",
+    "frames": 171,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Sit_to_Stand_00091.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00001.npz",
+    "frames": 236,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00002.npz",
+    "frames": 167,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00003.npz",
+    "frames": 276,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00004.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00005.npz",
+    "frames": 102,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00006.npz",
+    "frames": 162,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00007.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00008.npz",
+    "frames": 149,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00009.npz",
+    "frames": 252,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00010.npz",
+    "frames": 131,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00011.npz",
+    "frames": 211,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00012.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00013.npz",
+    "frames": 134,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00014.npz",
+    "frames": 177,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00015.npz",
+    "frames": 102,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00016.npz",
+    "frames": 254,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00017.npz",
+    "frames": 121,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00018.npz",
+    "frames": 139,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00019.npz",
+    "frames": 321,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00020.npz",
+    "frames": 322,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00021.npz",
+    "frames": 281,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00022.npz",
+    "frames": 302,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00023.npz",
+    "frames": 319,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00024.npz",
+    "frames": 226,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00025.npz",
+    "frames": 277,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00026.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00027.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00028.npz",
+    "frames": 119,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00029.npz",
+    "frames": 154,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00030.npz",
+    "frames": 132,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00031.npz",
+    "frames": 132,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00032.npz",
+    "frames": 131,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00033.npz",
+    "frames": 219,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00034.npz",
+    "frames": 209,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00035.npz",
+    "frames": 251,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00036.npz",
+    "frames": 255,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00037.npz",
+    "frames": 314,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00038.npz",
+    "frames": 264,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00039.npz",
+    "frames": 264,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00040.npz",
+    "frames": 204,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00041.npz",
+    "frames": 172,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00042.npz",
+    "frames": 136,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00043.npz",
+    "frames": 154,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00044.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00045.npz",
+    "frames": 149,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00046.npz",
+    "frames": 127,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00047.npz",
+    "frames": 142,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00048.npz",
+    "frames": 157,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00049.npz",
+    "frames": 142,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00050.npz",
+    "frames": 386,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00051.npz",
+    "frames": 166,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00052.npz",
+    "frames": 127,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00053.npz",
+    "frames": 230,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00054.npz",
+    "frames": 216,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00055.npz",
+    "frames": 186,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00056.npz",
+    "frames": 136,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00057.npz",
+    "frames": 205,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00058.npz",
+    "frames": 149,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "small_height_change",
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00059.npz",
+    "frames": 146,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00060.npz",
+    "frames": 164,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00061.npz",
+    "frames": 209,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00062.npz",
+    "frames": 86,
+    "parent_quality": "rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00063.npz",
+    "frames": 192,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00064.npz",
+    "frames": 89,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00065.npz",
+    "frames": 122,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00066.npz",
+    "frames": 107,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00067.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00068.npz",
+    "frames": 97,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00069.npz",
+    "frames": 182,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00070.npz",
+    "frames": 136,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00071.npz",
+    "frames": 129,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00072.npz",
+    "frames": 137,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00073.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00074.npz",
+    "frames": 72,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00075.npz",
+    "frames": 84,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00076.npz",
+    "frames": 119,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00077.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00078.npz",
+    "frames": 122,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00079.npz",
+    "frames": 327,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00080.npz",
+    "frames": 347,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00081.npz",
+    "frames": 294,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00082.npz",
+    "frames": 212,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00083.npz",
+    "frames": 212,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00084.npz",
+    "frames": 72,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00085.npz",
+    "frames": 239,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00086.npz",
+    "frames": 115,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00087.npz",
+    "frames": 196,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00088.npz",
+    "frames": 189,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00089.npz",
+    "frames": 282,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00090.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00091.npz",
+    "frames": 189,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00092.npz",
+    "frames": 171,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00093.npz",
+    "frames": 217,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00094.npz",
+    "frames": 154,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00095.npz",
+    "frames": 199,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00096.npz",
+    "frames": 249,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00097.npz",
+    "frames": 259,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00098.npz",
+    "frames": 89,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00099.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00100.npz",
+    "frames": 147,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00101.npz",
+    "frames": 176,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_00102.npz",
+    "frames": 279,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Prone_Lying_00103.npz",
+    "frames": 229,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00104.npz",
+    "frames": 217,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00105.npz",
+    "frames": 337,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00106.npz",
+    "frames": 291,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00107.npz",
+    "frames": 336,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00108.npz",
+    "frames": 287,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00109.npz",
+    "frames": 316,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00110.npz",
+    "frames": 286,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00111.npz",
+    "frames": 332,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00112.npz",
+    "frames": 121,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00113.npz",
+    "frames": 134,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00114.npz",
+    "frames": 147,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00115.npz",
+    "frames": 147,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00116.npz",
+    "frames": 162,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00117.npz",
+    "frames": 131,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00118.npz",
+    "frames": 134,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00119.npz",
+    "frames": 142,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00120.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00121.npz",
+    "frames": 312,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00122.npz",
+    "frames": 406,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00123.npz",
+    "frames": 362,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00124.npz",
+    "frames": 261,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00125.npz",
+    "frames": 377,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00126.npz",
+    "frames": 329,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00127.npz",
+    "frames": 336,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00128.npz",
+    "frames": 89,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00129.npz",
+    "frames": 146,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00130.npz",
+    "frames": 114,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00131.npz",
+    "frames": 99,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00132.npz",
+    "frames": 137,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00133.npz",
+    "frames": 115,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00134.npz",
+    "frames": 131,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00135.npz",
+    "frames": 339,
+    "parent_quality": "kinematic_candidate",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00136.npz",
+    "frames": 344,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00137.npz",
+    "frames": 371,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00138.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00139.npz",
+    "frames": 321,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00140.npz",
+    "frames": 301,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00141.npz",
+    "frames": 309,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00142.npz",
+    "frames": 146,
+    "parent_quality": "rejected",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Prone_Lying_00143.npz",
+    "frames": 139,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00144.npz",
+    "frames": 106,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00145.npz",
+    "frames": 104,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00146.npz",
+    "frames": 127,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Prone_Lying_00147.npz",
+    "frames": 127,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Prone_Lying_00148.npz",
+    "frames": 111,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00149.npz",
+    "frames": 264,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00150.npz",
+    "frames": 204,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00151.npz",
+    "frames": 252,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00152.npz",
+    "frames": 222,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00153.npz",
+    "frames": 239,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00154.npz",
+    "frames": 266,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00155.npz",
+    "frames": 302,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00156.npz",
+    "frames": 239,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00157.npz",
+    "frames": 317,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00158.npz",
+    "frames": 139,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00159.npz",
+    "frames": 212,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00160.npz",
+    "frames": 167,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00161.npz",
+    "frames": 219,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00162.npz",
+    "frames": 151,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00163.npz",
+    "frames": 124,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00164.npz",
+    "frames": 199,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00165.npz",
+    "frames": 189,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00166.npz",
+    "frames": 186,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00167.npz",
+    "frames": 286,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00168.npz",
+    "frames": 321,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00169.npz",
+    "frames": 272,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00170.npz",
+    "frames": 282,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00171.npz",
+    "frames": 374,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00172.npz",
+    "frames": 234,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00173.npz",
+    "frames": 314,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00174.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00175.npz",
+    "frames": 182,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00176.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00177.npz",
+    "frames": 197,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00178.npz",
+    "frames": 121,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00179.npz",
+    "frames": 159,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00180.npz",
+    "frames": 172,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00181.npz",
+    "frames": 289,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00182.npz",
+    "frames": 242,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00183.npz",
+    "frames": 322,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00184.npz",
+    "frames": 212,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00185.npz",
+    "frames": 277,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00186.npz",
+    "frames": 259,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00187.npz",
+    "frames": 294,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00188.npz",
+    "frames": 117,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00189.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00190.npz",
+    "frames": 122,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00191.npz",
+    "frames": 154,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00192.npz",
+    "frames": 184,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00193.npz",
+    "frames": 141,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Prone_Lying_00194.npz",
+    "frames": 156,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00001.npz",
+    "frames": 311,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00002.npz",
+    "frames": 356,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00003.npz",
+    "frames": 372,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00004.npz",
+    "frames": 382,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00005.npz",
+    "frames": 354,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00006.npz",
+    "frames": 359,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00007.npz",
+    "frames": 334,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00008.npz",
+    "frames": 332,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00009.npz",
+    "frames": 334,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00010.npz",
+    "frames": 159,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00011.npz",
+    "frames": 192,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00012.npz",
+    "frames": 202,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00013.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00014.npz",
+    "frames": 224,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00015.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00016.npz",
+    "frames": 217,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00017.npz",
+    "frames": 230,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00018.npz",
+    "frames": 249,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00019.npz",
+    "frames": 384,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00020.npz",
+    "frames": 397,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00021.npz",
+    "frames": 442,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00022.npz",
+    "frames": 424,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00023.npz",
+    "frames": 435,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00024.npz",
+    "frames": 354,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00025.npz",
+    "frames": 396,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00026.npz",
+    "frames": 156,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00027.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00028.npz",
+    "frames": 129,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00029.npz",
+    "frames": 162,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00030.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00031.npz",
+    "frames": 132,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00032.npz",
+    "frames": 126,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00033.npz",
+    "frames": 409,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00034.npz",
+    "frames": 394,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00035.npz",
+    "frames": 451,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00036.npz",
+    "frames": 226,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00037.npz",
+    "frames": 377,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00038.npz",
+    "frames": 217,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00039.npz",
+    "frames": 429,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00040.npz",
+    "frames": 227,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00041.npz",
+    "frames": 221,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00042.npz",
+    "frames": 154,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00043.npz",
+    "frames": 182,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00044.npz",
+    "frames": 204,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00045.npz",
+    "frames": 197,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Lying_Flat_to_Sitting_to_Standing_00046.npz",
+    "frames": 164,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00137.npz",
+    "frames": 179,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00138.npz",
+    "frames": 304,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00139.npz",
+    "frames": 337,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00140.npz",
+    "frames": 171,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00141.npz",
+    "frames": 184,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00142.npz",
+    "frames": 216,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00143.npz",
+    "frames": 289,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00144.npz",
+    "frames": 182,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00145.npz",
+    "frames": 246,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00146.npz",
+    "frames": 152,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00147.npz",
+    "frames": 189,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00148.npz",
+    "frames": 182,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00149.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00150.npz",
+    "frames": 149,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00151.npz",
+    "frames": 157,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00152.npz",
+    "frames": 169,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00153.npz",
+    "frames": 199,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00154.npz",
+    "frames": 166,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00155.npz",
+    "frames": 227,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00156.npz",
+    "frames": 196,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00157.npz",
+    "frames": 427,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00158.npz",
+    "frames": 244,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00159.npz",
+    "frames": 196,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00160.npz",
+    "frames": 239,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00161.npz",
+    "frames": 187,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00162.npz",
+    "frames": 136,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00163.npz",
+    "frames": 177,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00164.npz",
+    "frames": 129,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00165.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00166.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00167.npz",
+    "frames": 119,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00168.npz",
+    "frames": 157,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00169.npz",
+    "frames": 291,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00170.npz",
+    "frames": 254,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00171.npz",
+    "frames": 277,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00172.npz",
+    "frames": 301,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00173.npz",
+    "frames": 224,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00174.npz",
+    "frames": 187,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00175.npz",
+    "frames": 331,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00176.npz",
+    "frames": 176,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00177.npz",
+    "frames": 181,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00178.npz",
+    "frames": 141,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00179.npz",
+    "frames": 144,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00180.npz",
+    "frames": 152,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00181.npz",
+    "frames": 137,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Multiple_Limb_Combinations_to_Sitting_to_Standing_00182.npz",
+    "frames": 152,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00047.npz",
+    "frames": 437,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00048.npz",
+    "frames": 444,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00049.npz",
+    "frames": 386,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00050.npz",
+    "frames": 402,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00051.npz",
+    "frames": 399,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00052.npz",
+    "frames": 457,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00053.npz",
+    "frames": 469,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00054.npz",
+    "frames": 266,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00055.npz",
+    "frames": 377,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00056.npz",
+    "frames": 382,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00057.npz",
+    "frames": 181,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00058.npz",
+    "frames": 242,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00059.npz",
+    "frames": 207,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00060.npz",
+    "frames": 291,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00061.npz",
+    "frames": 261,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00062.npz",
+    "frames": 276,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00063.npz",
+    "frames": 344,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00064.npz",
+    "frames": 594,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00065.npz",
+    "frames": 316,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00066.npz",
+    "frames": 494,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00067.npz",
+    "frames": 216,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00068.npz",
+    "frames": 247,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00069.npz",
+    "frames": 286,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00070.npz",
+    "frames": 249,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00071.npz",
+    "frames": 247,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00072.npz",
+    "frames": 217,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00073.npz",
+    "frames": 194,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00074.npz",
+    "frames": 159,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00075.npz",
+    "frames": 167,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00076.npz",
+    "frames": 189,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00077.npz",
+    "frames": 166,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00078.npz",
+    "frames": 424,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00079.npz",
+    "frames": 191,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00080.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00081.npz",
+    "frames": 329,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00082.npz",
+    "frames": 334,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00083.npz",
+    "frames": 269,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00084.npz",
+    "frames": 286,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00085.npz",
+    "frames": 322,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00086.npz",
+    "frames": 286,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00087.npz",
+    "frames": 291,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00088.npz",
+    "frames": 164,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00089.npz",
+    "frames": 161,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00090.npz",
+    "frames": 129,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00091.npz",
+    "frames": 164,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00092.npz",
+    "frames": 159,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00093.npz",
+    "frames": 115,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00094.npz",
+    "frames": 122,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00095.npz",
+    "frames": 387,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00096.npz",
+    "frames": 336,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00097.npz",
+    "frames": 366,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00098.npz",
+    "frames": 221,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00099.npz",
+    "frames": 317,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00100.npz",
+    "frames": 369,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00101.npz",
+    "frames": 424,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00102.npz",
+    "frames": 192,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00103.npz",
+    "frames": 241,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00104.npz",
+    "frames": 222,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00105.npz",
+    "frames": 164,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00106.npz",
+    "frames": 205,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00107.npz",
+    "frames": 152,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Lying_to_Sitting_to_Standing_00108.npz",
+    "frames": 186,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00109.npz",
+    "frames": 217,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00110.npz",
+    "frames": 209,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00111.npz",
+    "frames": 257,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00112.npz",
+    "frames": 241,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00113.npz",
+    "frames": 192,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00114.npz",
+    "frames": 222,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00115.npz",
+    "frames": 272,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00116.npz",
+    "frames": 144,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00117.npz",
+    "frames": 177,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00118.npz",
+    "frames": 151,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00119.npz",
+    "frames": 147,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00120.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00121.npz",
+    "frames": 129,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00122.npz",
+    "frames": 184,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00123.npz",
+    "frames": 304,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00124.npz",
+    "frames": 304,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00125.npz",
+    "frames": 389,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00126.npz",
+    "frames": 222,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00127.npz",
+    "frames": 236,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00128.npz",
+    "frames": 454,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00129.npz",
+    "frames": 347,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00130.npz",
+    "frames": 149,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00131.npz",
+    "frames": 152,
+    "parent_quality": "rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00132.npz",
+    "frames": 142,
+    "parent_quality": "review",
+    "segmentation_flags": [
+      "moving_at_split"
+    ]
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00133.npz",
+    "frames": 201,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00134.npz",
+    "frames": 176,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00135.npz",
+    "frames": 176,
+    "parent_quality": "source_rejected",
+    "segmentation_flags": []
+  },
+  {
+    "file": "BM_Side_Reclining_to_Sitting_to_Standing_00136.npz",
+    "frames": 152,
+    "parent_quality": "review",
+    "segmentation_flags": []
+  }
+]

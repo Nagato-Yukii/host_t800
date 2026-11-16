@@ -1,0 +1,19 @@
+{
+  "poses": 512,
+  "families": [
+    "prone",
+    "supine",
+    "left_side",
+    "right_side"
+  ],
+  "counts": [
+    128,
+    128,
+    128,
+    128
+  ],
+  "attempts": 522,
+  "max_root_height": 0.5161786778846341,
+  "settle_seconds": 0.5,
+  "max_penetration_m": 0.008
+}
